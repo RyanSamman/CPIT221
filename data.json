@@ -1,0 +1,161 @@
+{
+	"Bar Plot": {
+		"Cover/Title Page": {
+			"Title": {
+				"Y": 28,
+				"N": 5
+			},
+			"Sender Information": {
+				"Y": 28,
+				"N": 6
+			},
+			"Receiver Information (+ Name)": {
+				"Y": 28,
+				"N": 6
+			},
+			"Date": {
+				"Y": 27,
+				"N": 7
+			}
+		},
+		"Letter of transmitted": {
+			"Use the letterhead (Sender information)": {
+				"N": 6,
+				"Y": 28
+			},
+			"Date.1": {
+				"Y": 31,
+				"N": 3
+			},
+			"Receiver information (+ Name)": {
+				"Y": 30,
+				"N": 4
+			},
+			"Salutation (ending with a colon)": {
+				"Y": 23,
+				"N": 2
+			},
+			"Link to the previous connections / correspondence": {
+				"Y": 31,
+				"N": 3
+			},
+			"Importance or benefits": {
+				"Y": 30,
+				"N": 4
+			},
+			"What's next? (correspondence)": {
+				"Y": 18,
+				"N": 16
+			},
+			"Sincerely -> Sign -> Sender information": {
+				"Y": 26,
+				"N": 8
+			}
+		},
+		"Table of Contents": {
+			"Organization: Appropriate headings and sub-headings": {
+				"Y": 24,
+				"N": 4
+			}
+		},
+		"Executive Summary": {
+			"Problem": {
+				"Y": 30,
+				"N": 4
+			},
+			"Proposed solution": {
+				"Y": 28,
+				"N": 6
+			},
+			"Main benefits of this proposal": {
+				"Y": 30,
+				"N": 4
+			},
+			"Is it self-contained?": {
+				"Y": 25,
+				"N": 9
+			}
+		},
+		"Introduction": {
+			"What is the purpose? What is it that the customer is looking for?": {
+				"Y": 33,
+				"N": 1
+			},
+			"Describe the problem (Why is the current situation inadequate?)": {
+				"Y": 33,
+				"N": 1
+			},
+			"Scope of the proposal": {
+				"Y": 33,
+				"N": 1
+			},
+			"Format of the proposal": {
+				"N": 26,
+				"Y": 8
+			}
+		},
+		"Body": {
+			"Technical / Management": {
+				"Y": 33,
+				"N": 1
+			}
+		},
+		"Conclusion": {
+			"Main benefits (Repeated) and features: Technical and Market Benefits": {
+				"Y": 32,
+				"N": 2
+			},
+			"Summary of what should be done": {
+				"Y": 20,
+				"N": 14
+			}
+		},
+		"References": {
+			"References (APA style, starts on new page)": {
+				"Y": 9,
+				"N": 24
+			}
+		}
+	},
+	"Chosen Course": {
+		"CPCS 202": 25,
+		"CPIT 201": 3,
+		"CPIT 221": 6
+	},
+	"Grades": {
+		"Group 1": 23.0,
+		"Group 2": 21.0,
+		"Group 3": 15.0,
+		"Group 4": 19.0,
+		"Group 5": 23.0,
+		"Group 6": 24.0,
+		"Group 7": 20.0,
+		"Group 8": 23.0,
+		"Group 9": 23.5,
+		"Group 10": 22.0,
+		"Group 11": 22.0,
+		"Group 12": 11.0,
+		"Group 13": 8.0,
+		"Group 14": 22.5,
+		"Group 15": 24.0,
+		"Group 16": 22.5,
+		"Group 18": 7.0,
+		"Group 19": 23.0,
+		"Group 20": 23.0,
+		"Group 21": 22.0,
+		"Group 22": 21.5,
+		"Group 23": 24.0,
+		"Group 24": 18.5,
+		"Group 25": 25.0,
+		"Group 26": 22.5,
+		"Group 29": 21.0,
+		"Group 30": 19.0,
+		"Group 33": 15.0,
+		"Group 34": 21.0,
+		"Group 36": 24.0,
+		"Group 40": 10.0,
+		"Group 48": 21.5,
+		"Group 49": 12.0,
+		"Group 50": 20.5
+	}
+}
