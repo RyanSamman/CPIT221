@@ -23,7 +23,7 @@
 				"N": 6,
 				"Y": 28
 			},
-			"Date.1": {
+			"Date": {
 				"Y": 31,
 				"N": 3
 			},
@@ -117,45 +117,45 @@
 			}
 		}
 	},
-	"Chosen Course": {
-		"CPCS 202": 25,
-		"CPIT 201": 3,
-		"CPIT 221": 6
-	},
-	"Grades": {
-		"Group 1": 23.0,
-		"Group 2": 21.0,
-		"Group 3": 15.0,
-		"Group 4": 19.0,
-		"Group 5": 23.0,
-		"Group 6": 24.0,
-		"Group 7": 20.0,
-		"Group 8": 23.0,
-		"Group 9": 23.5,
-		"Group 10": 22.0,
-		"Group 11": 22.0,
-		"Group 12": 11.0,
-		"Group 13": 8.0,
-		"Group 14": 22.5,
-		"Group 15": 24.0,
-		"Group 16": 22.5,
-		"Group 18": 7.0,
-		"Group 19": 23.0,
-		"Group 20": 23.0,
-		"Group 21": 22.0,
-		"Group 22": 21.5,
-		"Group 23": 24.0,
-		"Group 24": 18.5,
-		"Group 25": 25.0,
-		"Group 26": 22.5,
-		"Group 29": 21.0,
-		"Group 30": 19.0,
-		"Group 33": 15.0,
-		"Group 34": 21.0,
-		"Group 36": 24.0,
-		"Group 40": 10.0,
-		"Group 48": 21.5,
-		"Group 49": 12.0,
-		"Group 50": 20.5
-	}
+	"Chosen Course": [
+		{"key": "CPCS 202", "data" : 25},
+		{"key": "CPIT 201", "data" : 3},
+		{"key": "CPIT 221", "data" : 6}
+	],
+	"Grades": [
+		{"key": "Group 1", "data": 23.0 },
+		{"key": "Group 2", "data": 21.0 },
+		{"key": "Group 3", "data": 15.0 },
+		{"key": "Group 4", "data": 19.0 },
+		{"key": "Group 5", "data": 23.0 },
+		{"key": "Group 6", "data": 24.0 },
+		{"key": "Group 7", "data": 20.0 },
+		{"key": "Group 8", "data": 23.0 },
+		{"key": "Group 9", "data": 23.5 },
+		{"key": "Group 10", "data": 22.0 },
+		{"key": "Group 11", "data": 22.0 },
+		{"key": "Group 12", "data": 11.0 },
+		{"key": "Group 13", "data": 8.0 },
+		{"key": "Group 14", "data": 22.5 },
+		{"key": "Group 15", "data": 24.0 },
+		{"key": "Group 16", "data": 22.5 },
+		{"key": "Group 18", "data": 7.0 },
+		{"key": "Group 19", "data": 23.0 },
+		{"key": "Group 20", "data": 23.0 },
+		{"key": "Group 21", "data": 22.0 },
+		{"key": "Group 22", "data": 21.5 },
+		{"key": "Group 23", "data": 24.0 },
+		{"key": "Group 24", "data": 18.5 },
+		{"key": "Group 25", "data": 25.0 },
+		{"key": "Group 26", "data": 22.5 },
+		{"key": "Group 29", "data": 21.0 },
+		{"key": "Group 30", "data": 19.0 },
+		{"key": "Group 33", "data": 15.0 },
+		{"key": "Group 34", "data": 21.0 },
+		{"key": "Group 36", "data": 24.0 },
+		{"key": "Group 40", "data": 10.0 },
+		{"key": "Group 48", "data": 21.5 },
+		{"key": "Group 49", "data": 12.0 },
+		{"key": "Group 50", "data": 20.5 }
+	]
 }
