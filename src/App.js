@@ -1,24 +1,65 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, Switch } from 'react-router';
+import { useEffect, useState } from 'react';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
+import Home from './pages/Home';
+import CourseCard from './pages/CourseCard';
+import GradeCard from './pages/GradeCard';
+import RubricCards from './pages/RubricCards';
+import Writing from './pages/Writing';
+import Values from './pages/Values';
+import Buy from './pages/Buy';
+
 
 function App() {
+  const [width, setWidth] = useState(window.innerWidth);
+
+  useEffect(() => {
+    const resize = () => setWidth(window.innerWidth);
+
+    window.addEventListener('resize', resize);
+
+    return () => window.removeEventListener('resize', resize);
+  });
+
+  const cardWidth = 0.7 * width < 800 ? 0.7 * width : "700px";
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+
+      <Switch>
+        <Route exact path="/">
+          <Home width={cardWidth} />
+        </Route>
+
+        <Route path="/proposal/chosen">
+          <CourseCard cardWidth={cardWidth} />
+        </Route>
+
+        <Route path="/proposal/grades">
+          <GradeCard cardWidth={cardWidth} />
+        </Route>
+
+        <Route path="/proposal/rubric">
+          <RubricCards cardWidth={cardWidth} />
+        </Route>
+
+        <Route path="/values">
+          <Values width={cardWidth} />
+        </Route>
+
+        <Route path="/buy">
+          <Buy width={cardWidth} />
+        </Route>
+
+        <Route path="/writing">
+          <Writing width={cardWidth} />
+        </Route>
+      </Switch>
+
+      <Footer />
+    </>
   );
 }
 
