@@ -1,5 +1,5 @@
 
-# Hello 👋
+# My Experience with CPIT221 - Technical Communication
 
 I'm **Ryan Samman**, and I like visualizing data, 
 such as the Word Cloud I created earlier this year. Accross the term, 
