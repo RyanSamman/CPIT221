@@ -16,13 +16,12 @@ function App() {
 
   useEffect(() => {
     const resize = () => setWidth(window.innerWidth);
-
     window.addEventListener('resize', resize);
 
     return () => window.removeEventListener('resize', resize);
   });
 
-  const cardWidth = 0.7 * width < 800 ? 0.7 * width : "700px";
+  const cardWidth = 0.8 * width < 800 ? 0.8 * width : "700px";
 
   return (
     <>

@@ -2,7 +2,7 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
 const CustomNavbar = ({ active, setActive }) => {
 	// TODO: understand why Navbar broke when changing from # to paths
-	// Patched solution
+	// Patched solution is to compare the page manually...
 	
 	const isActive = (href) => href === window.location.pathname ? "true" : "";
 
