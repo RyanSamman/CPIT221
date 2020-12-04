@@ -230,3 +230,7 @@ However, there are serious drawbacks with what I have mentioned. In an ideal wor
 
 ![Part 3](https://i.imgur.com/VTWU2Vv.jpg)
 
+
+### ⚠ Confidential ⚠
+
+My secret for the weekly writing **is to go off topic**. If you look at any of my weekly writings, you will see that I never write directly about the topic at hand, but I talk about closely related topics! This allows me the room to let my mind wander, and come up with original ideas.
