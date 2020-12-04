@@ -6,10 +6,10 @@ import Card from './../components/Card';
 import valueMarkdown from './../markdown/Values.md';
 import valueTweets from './../valueTweets.json';
 
-const Tweet = ({ id, name, description, major }) => (
+const Tweet = ({ id, width, name, description, major }) => (
 	<div className="my-2">
 		<h3>{name} {major ? `- ${major}` : ""}</h3>
-		<p>{description}</p>
+		<p width={width} >{description}</p>
 		<TwitterTweetEmbed tweetId={id} placeholder={<div>Loading Tweet...</div>} />
 	</div>
 )
@@ -32,8 +32,18 @@ const Values = ({ width }) => (
 		<MarkdownFile width={width} url={valueMarkdown} />
 		<center>
 			{/*TODO: Loading Component*/}
-			{valueTweets.map((tweetData, i) => <Tweet key={i} {...tweetData} />)}
+			{valueTweets.map((tweetData, i) => <Tweet key={i} width={width} {...tweetData} />)}
 		</center>
+		<Card style={{ width, textAlign: "right"}} className="mx-auto" title="Maan's Telegram Group">
+			<h3>مجموعة @PcExperience</h3>
+
+			<h4>مجموعة الحاسِب الأولى والأكبر عربيًا على منصة التِلِجرام!</h4>
+
+			<h4>انضموا إلينا وستجدون ما يسركم بإذن الله، ومع أكثر من 22000 عضو!</h4>
+
+			<a  target="_blank" rel="noreferrer" href="https://t.me/joinchat/AAAAADw9wnIXGte2nS6IMQ"><h4>رابط المجموعة </h4></a>
+		</Card>
+		<br />
 		<Card className="mx-auto" title="Some Data on the Tweets" >
 			<GaugeChart name="Created a new Twitter Account for CPIT221 " Y={147 - 44} N={147 - (147 - 44)} />
 			<GaugeChart name="Have the Default Twitter Photo " Y={66} N={147 - 66} />
