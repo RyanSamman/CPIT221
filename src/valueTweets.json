@@ -1,0 +1,68 @@
+[
+	{
+		"name": "Dr. Rayed",
+		"major": "",
+		"description": "",
+		"id": "1330247365886963712"
+	},
+	{
+		"name": "Abdulrahman",
+		"major": "CS",
+		"description": "Not only a Designer, but also has a knack for Business!",
+		"id": "1330235111133114371"
+	},
+	{
+		"name": "Khaled",
+		"major": "CS",
+		"description": "I believe Khaled is among the best programmers in FCIT20!",
+		"id": "1329197804896579589"
+	},
+	{
+		"name": "Salman",
+		"major": "",
+		"description": "Salman is a person who takes every opportunity he can get! After meeting Salman, I can vouch that he has a natural interest in programming!",
+		"id": "1328838794854928389"
+	},
+	{
+		"name": "Maan",
+		"major": "IT",
+		"description": "He has put together ~9GB of SSDs, and created a RAID0 volume to bring the storage together!",
+		"id": "1329655563987394561"
+	},
+	{
+		"name": "Bandar",
+		"major": "CS",
+		"description": "Bandar has lead all of the groups I have been in since the foundation year, he is a natural leader!",
+		"id": "1332254221203345408"
+	},
+	{
+		"name": "Mohammed",
+		"major": "IT",
+		"description": "Dedicated to Networks!",
+		"id": "1332695779748810754"
+	},
+	{
+		"name": "Ahmed",
+		"major": "CS",
+		"description": "",
+		"id": "1329837582029557760"
+	},
+	{
+		"name": "Waleed",
+		"major": "CS",
+		"description": "",
+		"id": "1329591890212171780"
+	},
+	{
+		"name": "Rakan",
+		"major": "CS",
+		"description": "",
+		"id": "1331602809280733184"
+	},
+	{
+		"name": "Ryan Samman",
+		"major": "CS",
+		"description": "And finally, my own Post!",
+		"id": "1329048742553661441"
+	}
+]

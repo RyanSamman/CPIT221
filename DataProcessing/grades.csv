@@ -1,0 +1,35 @@
+﻿Group,Title,Sender Information,Receiver Information (+ Name),Date,Use the letterhead (Sender information),Date,Receiver information (+ Name),Salutation (ending with a colon),Link to the previous connections / correspondence,Importance or benefits,What’s next? (correspondence),Sincerely à Sign à Sender information,Organization: Appropriate headings and sub-headings,Problem,Proposed solution,Main benefits of this proposal,Is it self-contained?,What is the purpose? What is it that the customer is looking for?,Describe the problem (Why is the current situation inadequate?),Scope of the proposal,Format of the proposal,Technical / Management,Main benefits (Repeated) and features: Technical and Market Benefits,Summary of what should be done,,Remarks,Total Marks
+Group 1,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,CPCS 202,23
+Group 2,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPCS 202,21
+Group 3,0.5,N,Y,Y,N,Y,N,0.5,Y,N,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPCS 202,15
+Group 4,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,N,N,CPCS 202,19
+Group 5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,CPCS 202,23
+Group 6,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,CPCS 202,24
+Group 7,Y,Y,Y,N,Y,Y,Y,0.5,Y,Y,Y,Y,0.5,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPCS 202,20
+Group 8,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,CPIT 221,23
+Group 9,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,CPCS 202,23.5
+Group 10,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,CPIT 221,22
+Group 11,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,Y,N,CPIT 221,22
+Group 12,N,N,N,N,Y,Y,Y,0.5,Y,Y,N,N,0.5,N,N,N,N,Y,Y,Y,N,Y,N,Y,N,CPCS 202,11
+Group 13,Y,Y,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Y,Y,Y,N,Y,Y,N,N,CPCS 202,8
+Group 14,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,CPCS 202,22.5
+Group 15,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,CPCS 202,24
+Group 16,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y, N,CPCS 202,22.5
+Group 18,N,N,N,N,Y,Y,Y,Y,Y,Y,N,Y,N,N,N,N,N,N,N,N,N,N,N,N,N,CPCS 202,7
+Group 19,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,CPIT 221,23
+Group 20,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,CPCS 202,23
+Group 21,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPCS 202,22
+Group 22,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,Y,Y,N,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,N,Y,CPCS 202,21.5
+Group 23,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,CPCS 202,24
+Group 24,N,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,CPIT 221,18.5
+Group 25,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,CPIT 201,25
+Group 26,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,CPCS 202,22.5
+Group 29,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPIT 201,21
+Group 30,Y,Y,Y,Y,N,N,N,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,CPIT 201,19
+Group 33,N,N,N,N,Y,Y,Y,Y,Y,N,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPCS 202,15
+Group 34,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,N,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,CPCS 202,21
+Group 36,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,CPCS 202,24
+Group 40,N,N,N,N,N,Y,Y,0.5,Y,Y,N,N,0.5,N,N,N,N,Y,Y,Y,N,Y,Y,N,N,CPCS 202,10
+Group 48,Y,Y,Y,Y,Y,Y,Y,0.5,Y,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,Y,N,CPIT 221,21.5
+Group 49,Y,Y,N,Y,N,N,N,N,N,N,N,N,Y,Y,N,Y,N,Y,Y,Y,Y,Y,Y,N,N,CPCS 202,12
+Group 50,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,N,Y,0.5,Y,Y,Y,Y,Y,Y,Y,N,Y,Y,N,N,CPCS 202,20.5

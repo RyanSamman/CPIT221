@@ -1,4 +1,9 @@
 body {
-	/* background-color: #333333; */
+	/* background-color: #333333 !important; */
 	/* padding-bottom: 75px; */
+}
+
+.sideImage {
+	width: 50px;
+	border: 10px red;
 }

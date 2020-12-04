@@ -1,0 +1,43 @@
+{
+	"Cover/Title Page": [
+		"Title",
+		"Sender Information",
+		"Receiver Information",
+		"Date in Cover"
+	],
+	"Letter of transmitted": [
+		"Sender information in the Letterhead",
+		"Date in Letter",
+		"Receiver information",
+		"Salutation",
+		"Link to Previous Connections",
+		"Importance or benefits",
+		"What's next?",
+		"Sincerely, Sign, and Sender information"
+	],
+	"Table of Contents": [
+		"Appropriate headings and sub-headings"
+	],
+	"Executive Summary": [
+		"Problem",
+		"Proposed solution",
+		"Main benefits of this proposal",
+		"Is it self-contained?"
+	],
+	"Introduction": [
+		"Describe the problem",
+		"Scope of the proposal",
+		"Format of the proposal",
+		"Technical / Management"
+	],
+	"Body": [
+		"Technical / Management"
+	],
+	"Conclusion": [
+		"Technical and Market Benefits",
+		"Summary of what should be done"
+	],
+	"References": [
+		"References"
+	]
+}
