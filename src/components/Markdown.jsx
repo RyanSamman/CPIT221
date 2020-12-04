@@ -18,8 +18,8 @@ function flatten(text, child) {
 	return React.createElement('h' + props.level, {id: slug}, props.children)
   }  
 
-const Markdown = ({ width, md }) => (	
-	<Card border="primary" style={{ width }} className="mx-auto" >
+const Markdown = ({ width, md, style }) => (	
+	<Card border="primary" style={{ width, border: "none", ...style }} className="mx-auto" >
 		<Card.Body className="markdown-body">
 			<ReactMarkdown plugins={[gfm]} renderers={{ heading: HeadingRenderer }} children={md} allowDangerousHtml />
 		</Card.Body>

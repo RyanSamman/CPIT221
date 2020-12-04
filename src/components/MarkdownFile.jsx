@@ -6,7 +6,7 @@ const retrieveMarkdownText = async (url) => {
 	return await res.text();
 }
 
-const MarkdownFile = ({ width, url }) => {
+const MarkdownFile = ({ width, url, style }) => {
 	const [markdown, setMarkdown] = useState("Loading Markdown....");
 
 	useEffect(() => {
@@ -16,7 +16,7 @@ const MarkdownFile = ({ width, url }) => {
 	}, [url, markdown]);
 
 	return (
-		<Markdown width={width} md={markdown} />
+		<Markdown style={style} width={width} md={markdown} />
 	);
 }
 
