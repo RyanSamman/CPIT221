@@ -1,0 +1,5 @@
+### Note:
+I wrote this to emphasize my point in Draft #2
+
+<p style="	font-size: xx-small;">
+In third week technical communication we studied structuring sentences. this weak focused lots on writing which is very important. good communication is important for working to make sure everyone knows what to do.  our field is very technical so we think technical skills  is the only thing that is important to be good at  your job. however communication is more important for our performance. written communication is important for an employee. I think it's good that this course is pushing us to be more aware of our written communication skills, and enable us to be developing them in a more practical style. I think the part about jargon was the most important part of the lectures. lots of people speak jargon unintentionally. this makes your communcation less good. our field is technical in nature and you speak to many people who don't know what you are talking about. Therefore it is imperative to always keep your language as concise as possible, and emphasize on any ambiguous subjects of your writing. </p>

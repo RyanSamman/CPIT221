@@ -1,6 +1,5 @@
-// 
+// React & React Router
 import { useEffect, useState } from 'react';
-
 import { Route, Switch } from 'react-router';
 
 // Components
@@ -13,7 +12,7 @@ import Home from './pages/Home';
 import CourseCard from './pages/CourseCard';
 import GradeCard from './pages/GradeCard';
 import RubricCards from './pages/RubricCards';
-import Writing from './pages/Writing';
+import Writing from './writing/Writing';
 import Values from './pages/Values';
 import Buy from './pages/Buy';
 import Page404 from './pages/Page404';
@@ -21,7 +20,7 @@ import TextToSpeech from './pages/TextToSpeech';
 import OurProposal from './pages/OurProposal';
 
 // Markdown
-import StoryMarkdown from './markdown/Story.md'
+import writingMarkdown from './markdown/Writing.md'
 
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
@@ -67,12 +66,14 @@ function App() {
           <Buy width={cardWidth} />
         </Route>
 
-        <Route path="/writing/story">
-          <MarkdownFile width={cardWidth} url={StoryMarkdown} />
+        <Route 
+          exact
+          path="/writing/:id"
+          render={props => <Writing width={cardWidth} id={props.match.params.id} />}>
         </Route>
 
         <Route path="/writing">
-          <Writing width={cardWidth} />
+          <MarkdownFile width={cardWidth} url={writingMarkdown} />
         </Route>
 
         <Route path="/tts">

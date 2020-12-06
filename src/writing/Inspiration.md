@@ -1,7 +1,3 @@
-<center>
-<h1>My Story</h1>
-</center>
-
 ## INTRODUCTION
 
 Since Dr. Buhari has shared his story, I decided to share my story as well, along with some role models I have had on the way.
@@ -49,11 +45,7 @@ Then, I was introduced to the Make Me Buy task, where I learned how to use a cam
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zigvhb_FRtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-While the videos still aren't great, I have identified exactly where the videos fall short, and I will take account of them the next time I record a video. I nearly finished several scripts for videos on skills programmers need before even starting programming, such as Git & GitHub, IDEs, and <center>
-<h1>My Story</h1>
-</center>Ma
-
-rkdown, all I have left to do is record it! 
+While the videos still aren't great, I have identified exactly where the videos fall short, and I will take account of them the next time I record a video. I nearly finished several scripts for videos on skills programmers need before even starting programming, such as Git & GitHub, IDEs, and all I have left to do is record it! 
 
 ## WRITTEN COMMUNICATION
 
@@ -61,7 +53,7 @@ In the beginning of the course, I decided it would be fun to spend 10 hours on t
 
 ![BlogWordCloud](https://i.imgur.com/gIKXL9Y.png)
 
-The weekly writing tasks have also allowed me to create one of my favorite writings yet!
+The weekly writing tasks have also allowed me [to create one of my favorite writings yet!](/writing/visual-design)
 
 ![Visual Design](https://i.imgur.com/WvsVx1b.png)
 
@@ -69,11 +61,7 @@ However, that pace was impossible to keep up, especially when the exams started.
 
 ![Am I Robot?!](https://i.imgur.com/INa5zOv.png)
 
-Furthermore, I would like to apologize in advance for the quality of my future weekly writing tasks. With the midterm exam and final exams being 10 days apart, this will likely be my last journal that <center>
-<h1>My Story</h1>
-</center>I 
-
-would consider being up to my standards.
+Furthermore, I would like to apologize in advance for the quality of my future weekly writing tasks. With the midterm exam and final exams being 10 days apart, this will likely be my last journal that I would consider being up to my standards.
 
 ## GROUP WORK
 
@@ -81,11 +69,7 @@ For me, my group work wasn't simply to get grades for the course, but to get clo
 
 ![Trello Board](https://i.imgur.com/AkUubCQ.png)
 
-However, for the proposal, a normal proposal wouldn't be enough, as there wouldn't be much at stake. Therefore, our goal was to write a proposal and presentation of the quality at which I would be proud to send to the dean of FCIT! Whether my proposal will be successful is a different matter, but <center>
-<h1>My Story</h1>
-</center>I hope that down the line I will one day my ideas would be influential enough to produce actual ch
-
-anges.
+However, for the proposal, a normal proposal wouldn't be enough, as there wouldn't be much at stake. Therefore, our goal was to write a proposal and presentation of the quality at which I would be proud to send to the dean of FCIT! Whether my proposal will be successful is a different matter, but I hope that down the line I will one day my ideas would be influential enough to produce actual changes.
 
 ## CONCLUSION
 

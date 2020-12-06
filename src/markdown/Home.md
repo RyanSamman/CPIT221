@@ -19,7 +19,7 @@ Only a year ago, CPIT221 was just focusing on writing skills. However, since the
 
 The tasks may seem daunting at first, and even I was nervous of the thought of doing those tasks! However, with time, we all got out of our comfort zone, and the majority of us were able to complete the tasks successfuly. In retrospect, each task covered important topics, and provided the students a strong foundation for developing professional skills well into the future. 
 
-<img align="left" className="sideImage" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Original Image">
+<img align="left" className="sideImage" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
 
 **From day one, I started the course with the mindset of improving my skills, not just doing the tasks for the grades.** The course may be challenging at times, due to many of the tasks requiring you to go beyond what you have learnt in the lectures. However, I believe it creates the perfect environment for students to experiement with their ideas, and be able to hone their skills. Below are a bunch of skills and acomplishments I have done due to the course, which I will go into depth in the coming sections:
 
