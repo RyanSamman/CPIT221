@@ -1,6 +1,5 @@
 import data from '../data.json';
 import Markdown from './../components/Markdown';
-import Card from '../components/Card';
 import { PieChart } from 'reaviz';
 
 const markdown = `

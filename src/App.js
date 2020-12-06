@@ -3,7 +3,6 @@ import { useEffect, useState } from 'react';
 import { Route, Switch } from 'react-router';
 
 // Components
-import MarkdownFile from './components/MarkdownFile';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 
@@ -18,9 +17,7 @@ import Buy from './pages/Buy';
 import Page404 from './pages/Page404';
 import TextToSpeech from './pages/TextToSpeech';
 import OurProposal from './pages/OurProposal';
-
-// Markdown
-import writingMarkdown from './markdown/Writing.md'
+import WeeklyWriting from './pages/WeeklyWriting';
 
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
@@ -73,7 +70,7 @@ function App() {
         </Route>
 
         <Route path="/writing">
-          <MarkdownFile width={cardWidth} url={writingMarkdown} />
+          <WeeklyWriting width={cardWidth}/>
         </Route>
 
         <Route path="/tts">

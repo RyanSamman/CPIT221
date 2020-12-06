@@ -1,9 +1,8 @@
-import Markdown from '../components/Markdown';
 import MarkdownFile from '../components/MarkdownFile';
 import writings from './writings';
 import { DiscussionEmbed } from 'disqus-react';
 
-const Header = ({ width, name, date, description }) => {
+const Header = ({ width, name, date }) => {
 	return (
 		<center>
 			<h1>{name}</h1>

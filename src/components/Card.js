@@ -4,7 +4,7 @@ export default function CardTemplate({ title, children, className="", style={ wi
 	return (
 		<>
 			<Card border={border} style={style} className={className}>
-				<Card.Header>{title}</Card.Header>
+				{title ? <Card.Header>{title}</Card.Header> : null}
 				<Card.Body>
 					{children}
 				</Card.Body>
