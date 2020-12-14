@@ -39,13 +39,14 @@ const Group = ({ width, groupName, groupData }) => {
 			<center>
 				<h1>{groupName}</h1>
 				<h4>{groupData["Chosen Course"]}</h4>
-
+				<div style={{width: "fit-content", paddingLeft: 20}}>
 				<RadialGauge
 					height={300}
 					width={300}
 					data={[{ key: 'Proposal Grade', data: groupData["Total Marks"] }]}
 					maxValue={25}
 				/>
+				</div>
 				<br />
 			</center>
 			<div style={{ paddingLeft: paddingWidth, paddingRight: paddingWidth, alignItems: "center", textAlign: "center" }}>
