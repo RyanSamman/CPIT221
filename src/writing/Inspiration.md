@@ -25,9 +25,7 @@ Just as CPIT110 was the push I needed to start developing my programming skills,
 
 ![Reactions](https://i.imgur.com/phqyN7k.png)
 
-Many agree that I was horrible at communicating. **I was a very shy person, had a horrible stutter, <center>
-<h1>My Story</h1>
-</center>and I wasn't confident in myself**. However, due to Dr. Buhari and Dr. Rayed's efforts in the CP
+Many agree that I was horrible at communicating. **I was a very shy person, had a horrible stutter, and I wasn't confident in myself**. However, due to Dr. Buhari and Dr. Rayed's efforts in the CP
 
 IT221 course, I have advanced my communication skills greatly across several fronts.
 

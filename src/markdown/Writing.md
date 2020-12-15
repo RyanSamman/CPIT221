@@ -1,4 +1,3 @@
-
 <center>
 <h1>Weekly Writing</h1>
 </center>
@@ -13,11 +12,6 @@ After one of the tasks, the students were asked to write about their experience,
 <br>
 
 My goal for the weekly writing was to develop my writing skills to be good enough to start a personal blog. Therefore, I decided to dedicate a good amount of time to preparing and writing each week! 
-
-# List of My Weekly Writings
-- [My Story](/writing/story)
-- [WIP - Need access to weekly writing]()
-
 
 ## My process for Writing
 
