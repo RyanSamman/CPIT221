@@ -14,19 +14,19 @@
 	{
 		"name": "Khaled",
 		"major": "CS",
-		"description": "I believe Khaled is among the best programmers in FCIT20!",
+		"description": "Among the best programmers in FCIT20!",
 		"id": "1329197804896579589"
 	},
 	{
 		"name": "Salman",
 		"major": "",
-		"description": "Salman is a person who takes every opportunity he can get! After meeting Salman, I can vouch that he has a natural interest in programming!",
+		"description": "Salman is a person who takes every opportunity he can get! After meeting him, I can tell that he has a strong curiosity to learn new things!",
 		"id": "1328838794854928389"
 	},
 	{
 		"name": "Maan",
 		"major": "IT",
-		"description": "He has put together 9TB of SSDs, and created a RAID0 volume to bring all that storage together! He even has a Telegram Group, with 22k members! Link in the bottom of the page.",
+		"description": "He has put together 9TB of SSDs, and created a RAID0 volume to bring all that storage together! [He even has a Telegram Group, with 22k members!](#telegram).",
 		"id": "1329655563987394561"
 	},
 	{
@@ -46,12 +46,6 @@
 		"major": "CS",
 		"description": "",
 		"id": "1329837582029557760"
-	},
-	{
-		"name": "Waleed",
-		"major": "CS",
-		"description": "",
-		"id": "1329591890212171780"
 	},
 	{
 		"name": "Rakan",
