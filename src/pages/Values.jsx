@@ -1,3 +1,4 @@
+import Skeleton from 'react-loading-skeleton';
 import { TwitterTweetEmbed } from 'react-twitter-embed';
 import GaugeChart from './../components/GaugeChart';
 import Markdown from './../components/Markdown';
@@ -10,7 +11,7 @@ const Tweet = ({ id, width, name, description, major }) => (
 	<div className="my-2">
 		<h3>{name} {major ? `- ${major}` : ""}</h3>
 		<p width={width} >{description}</p>
-		<TwitterTweetEmbed tweetId={id} placeholder={<div>Loading Tweet...</div>} />
+		<TwitterTweetEmbed tweetId={id} placeholder={<Skeleton height={500}/>} />
 	</div>
 )
 
