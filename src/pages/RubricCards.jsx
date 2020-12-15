@@ -26,9 +26,10 @@ However, it is understandable for the grading scheme to stay as is, as there is 
 const RubricCards = ({ cardWidth = "" }) => (
 	<>
 		<Markdown width={cardWidth} md={markdown} />
+		<div style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start"}}>
 		{Object.entries(data["Bar Plot"]).map(([category, catData]) => (
 			<>
-				<Card className="mx-auto" key={category} title={category} >
+				<Card className="m-2" key={category} title={category} >
 					{Object.entries(catData).map(([category, { Y, N }]) => (
 						<GaugeChart key={category} name={category} Y={Y} N={N} />
 					))}
@@ -37,6 +38,7 @@ const RubricCards = ({ cardWidth = "" }) => (
 				<br />
 			</>
 		))}
+		</div>
 		<Markdown width={cardWidth} md={markdown2}/>
 	</>
 )
