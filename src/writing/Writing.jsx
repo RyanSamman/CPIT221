@@ -2,7 +2,7 @@ import MarkdownFile from '../components/MarkdownFile';
 import writings from './writings';
 import { DiscussionEmbed } from 'disqus-react';
 
-const monthNames = ["January", "February", "March", "April", "May", "June",
+const monthNames = [null, "January", "February", "March", "April", "May", "June",
   "July", "August", "September", "October", "November", "December"
 ];
 
