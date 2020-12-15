@@ -17,7 +17,7 @@ Therefore it is easy to forget about skills involving interaction with others - 
 ## The Most Important Means of Communication
 
 <center>
-<b>Writing is the main method of communication between two or more parties**</b>
+<b>Writing is the main method of communication between two or more parties</b>
 </center>
 
 Ever had an important task or assignment? Chances are that it has been sent to you via a written communication channel. Whether you agree or not, written communication is definitely among the most important skills a professional can have. Therefore I think it's great that this course is pushing us to be more aware of the limitations of written communication skills, and enable us to be developing them in a more practical style.

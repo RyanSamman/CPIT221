@@ -10,7 +10,7 @@ const Header = ({ width, name, date }) => {
 	return (
 		<center>
 			<h1>{name}</h1>
-			<p>{monthNames[date.getMonth()]} {date.getDate()} {date.getFullYear()}</p>
+			<p>{monthNames[date.getMonth()]} {date.getDate()}, {date.getFullYear()}</p>
 		</center>
 	);
 }

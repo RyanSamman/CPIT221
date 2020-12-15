@@ -1,4 +1,5 @@
 import MarkdownFile from './../components/MarkdownFile';
+import Markdown from './../components/Markdown';
 import writingMarkdown from './../markdown/Writing.md'
 import writingData from './../writing/writings';
 import Card from './../components/Card';
@@ -15,10 +16,18 @@ const WritingPost = ({ name, url, date, description }) => (
 	</>
 );
 
+const markdown = `
+My goal for the weekly writing was to **develop my writing skills to be good enough to start a personal blog**. 
+Therefore, I decided to dedicate a good amount of time to preparing and writing each week! 
+
+Below are all the weekly writings I've written for the CPIT221 course, covering topics such as **Networking, Teamwork, Visual Design, and more**!
+`
+
 const OldWritings = ({ width }) => {
 	return (
 		<>
-			<center><h1>Old Writings</h1></center>
+			<center><h1>My Weekly Writings</h1></center>
+			<Markdown width={width} md={markdown}></Markdown>
 			<Card style={{ border: "none" }} width={width} className="mx-auto">
 				{Object.keys(writingData).map(w => <WritingPost url={w} {...writingData[w]} />)}
 			</Card>

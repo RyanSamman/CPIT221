@@ -22,12 +22,12 @@ While we did finish the task on time, I wasn't totally satisfied with the qualit
 
 ## TEAMMATES
 
-**Forming a team is like putting together pieces of a puzzle.** In the real world, a significant amount of money is spent in the recruiting process. In some cases, thousands of CVs1 are looked at; Of which, a small portion go through an interview process, assessing their skills, and fit for the team, for only a select few to be hired. 
+**Forming a team is like putting together pieces of a puzzle.** In the real world, a significant amount of money is spent in the recruiting process. In some cases, thousands of CVs<sup>1</sup> are looked at; Of which, a small portion go through an interview process, assessing their skills, and fit for the team, for only a select few to be hired. 
 
 However, when our teams are selected randomly, we don't know anything about anyone's skills and motivations, making it hard to get everyone's goals aligned and get things done in a timely manner. While I do like the concept and experience of being in a team selected at random, it took an entire week to organize everyone to do a 5 minute conversation. Therefore, I would prefer the ability to form my own team if the project was time sensitive, had long term consequences, or had a scale of any significance.
 
 
-VISION
+## VISION
 
 I don't think any specific person can inherently be called "bad". **However, one's vision of a project plays a major factor in their quality of work.**
 
