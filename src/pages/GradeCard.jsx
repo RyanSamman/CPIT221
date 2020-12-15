@@ -31,9 +31,6 @@ const TablePart = ({ category, data }) => (
 
 const Group = ({ width, groupName, groupData }) => {
 
-	// Sizing Tables gives me PTSD.
-	// Note to self: Don't use tables again D:
-	const paddingWidth = width * 0.1;
 	return (
 		<>
 			<center>
@@ -49,7 +46,7 @@ const Group = ({ width, groupName, groupData }) => {
 				</div>
 				<br />
 			</center>
-			<div style={{ paddingLeft: paddingWidth, paddingRight: paddingWidth, alignItems: "center", textAlign: "center" }}>
+			<div style={{ alignItems: "center", textAlign: "center" }}>
 				<Table responsive="sm" striped bordered hover >
 					<col width={width / 2} />
 					<col width={width / 2} />
@@ -86,14 +83,15 @@ const GradeCard = ({ cardWidth }) => {
 				<Group width={cardWidth} groupName={selectedGroup} groupData={grades[selectedGroup]} />
 			</div>
 
-			<Card title={"Grades"} className="mx-auto" style={{ width: "fit-content" }}>
+			<Card className="mx-auto" style={{ width: "fit-content", border: "none" }}>
 				<BarChart
-					width={cardWidth}
+					width={cardWidth * 0.9}
 					height={cardWidth}
 					data={data['Grades']}
 				/>
-				<br />
 			</Card>
+			
+			<br />
 		</>
 	)
 }
