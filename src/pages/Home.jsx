@@ -8,6 +8,11 @@ import TableOfContents from './../markdown/TableOfContents.md';
 import YoutubeVideo from './../components/YoutubeVideo';
 import firstVideoMarkdown from './../markdown/FirstVideo.md';
 import firstTaskMarkdown from './../markdown/FirstTask.md';
+import ReportMistakesMarkdown from './../markdown/ReportMistakes.md';
+import ProposalMarkdown from './../markdown/Proposal.md';
+import LaTeXMarkdown from './../markdown/LaTeX.md';
+import FinalReportMarkdown from './../markdown/FinalReport.md';
+
 import { InlineMath, BlockMath } from 'react-katex';
 import Skeleton from 'react-loading-skeleton';
 
@@ -28,7 +33,7 @@ const Home = ({ width }) => {
 			</div>
 			<MarkdownFile width={width} url={homeMarkdown} />
 			<center>
-				<TwitterTweetEmbed tweetId={"1330247365886963712"} placeholder={<Skeleton height={500}/>} />
+				<TwitterTweetEmbed tweetId={"1330247365886963712"} placeholder={<Skeleton height={500} />} />
 			</center>
 
 			<MarkdownFile width={width} url={TableOfContents} />
@@ -36,7 +41,7 @@ const Home = ({ width }) => {
 			<MarkdownFile width={width} url={tweetMarkdown} />
 
 			<center>
-				<TwitterTweetEmbed tweetId={"1302887084252958721"} placeholder={<Skeleton height={500}/>} />
+				<TwitterTweetEmbed tweetId={"1302887084252958721"} placeholder={<Skeleton height={500} />} />
 			</center>
 			<MarkdownFile width={width} url={firstVideoMarkdown} />
 
@@ -45,11 +50,17 @@ const Home = ({ width }) => {
 				<YoutubeVideo width={width} id={"uor4oVz-WJc"} />
 			</center>
 
+			<MarkdownFile width={width} url={ReportMistakesMarkdown} />
+			<MarkdownFile width={width} url={ProposalMarkdown} />
+			<MarkdownFile width={width} url={LaTeXMarkdown} />
 			{/* No chance for XSS here, don't try it c: */}
 			<center>
 				<input value={katex} onChange={(e) => setKatex(e.target.value)} />
 			</center>
 			<BlockMath math={katex}></BlockMath>
+			<MarkdownFile width={width} url={FinalReportMarkdown} />
+
+
 
 			<center><h1>WIP - More coming soon :)</h1></center>
 		</div>

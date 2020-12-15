@@ -13,7 +13,7 @@ I recorded my video exactly 127 times, and it took me nearly 4 hours to complete
 
 <br>
 
-In the background, I wanted my video to represent my future goals, Web Development, and Robotics! 
+In the background, [I was showing off a project I was currently working on](https://twitter.com/Ryan_Samman_/status/1322913059539734529), to hopefully attract people who are interested in the stuff I was doing.
 
 In the end of the video, **I mentioned three main goals** I wanted to accomplish by the end of this course.
 

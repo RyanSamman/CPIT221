@@ -1,4 +1,4 @@
-LaTeX
+# LaTeX
 
 Last summer, I met a Computer Science student from UNSW. At the time, he needed to write a lot of mathematical proofs, and used KaTeX. While he recommended me to learn it, the syntax looked extremely daunting, and I put it off for another time. 
 

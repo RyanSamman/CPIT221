@@ -21,6 +21,8 @@ The tasks may seem daunting at first, and even I was nervous of the thought of d
 
 <img align="left" className="sideImage" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
 
+<br>
+
 **From day one, I started the course with the mindset of improving my skills, not just doing the tasks for the grades.** The course may be challenging at times, due to many of the tasks requiring you to go beyond what you have learnt in the lectures. However, I believe it creates the perfect environment for students to experiement with their ideas, and be able to hone their skills. Below are a bunch of skills and acomplishments I have done due to the course, which I will go into depth in the coming sections:
 
 <br>
@@ -33,4 +35,3 @@ The tasks may seem daunting at first, and even I was nervous of the thought of d
 - [The course has directed our work into suggesting improvements to existing courses, in an organized and professional way.](https://twitter.com/rayed1420/status/1332299132254515201)
 
 Furthermore, from the skills I have learnt through the course, I have met many interesting people which I am excited to be working with in the future!
-

@@ -1,25 +1,35 @@
 <center>
-<h1>Weekly Writing</h1>
+<h1>Word Cloud</h1>
 </center>
 
-I'm **Ryan Samman**, and I like visualizing data, 
+I like visualizing data, 
 such as [the Word Cloud I created earlier this term](https://github.com/RyanSamman/BlogWordCloud). 
 
-After one of the tasks, the students were asked to write about their experience, working with strangers in a Group Task. Therefore, I thought it would be the perfect opportunity to test out my programming skills, and scrape the data off Blackboard, and figure out the most common words mentioned in the writing.
+After one of the tasks, the students were asked to write about their experience in working with strangers in a Group Task. [Personally, I took this opportunity to reflect on my own teamwork skills, instead of blaming my teammates.](/writing/online-conversation) Therefore, I thought it would be the perfect opportunity to test out my programming skills, scrape data off Blackboard, and figure out the most common words mentioned in the writing.
 
-<img alt="Word Cloud" style="max-width: 100%;" src="https://i.imgur.com/781uLid.png" />
+<center>
+<img alt="Word Cloud" style="max-width: 100%;" src="https://pbs.twimg.com/media/Ejbu267WAAAv3kc?format=png&name=small">
+<img alt="Word Cloud 2" style="max-width: 100%;" src="https://i.imgur.com/781uLid.png" />
+</center>
+
+Afterwards, Dr Rayed and Dr Buhari were impressed at how I scraped the data off blackboard, and I believe they integrated a part of my code to create the automatic grader that we all know and love.
+
+While I aided in the existence of the auto grader, I believe the automatic grading of the weekly writings is a double edged sword, and brings along several drawbacks.
+
+-  **Students are not motivated to write more than what is neccessary**. This is due to the students wanting to avoid mistakes as much as possible, as more mistakes lead to lower grades. While many students attempted to write and do extra, their efforts were rewarded with heavy deductions in their grades! I'd suggest there to be some kind of scaling between the number of mistakes and the number of words written to avoid this problem in the future.
+
+- **A rift was created between the professors and the students.** The students may have suggested useful feedback to the professors in the weekly writings, which may have been ignored. While I had tried experimenting with text summarization, nothing has been successful so far. While it's fun to experiement with AI, I don't believe there is much of an alternative to simply reading the writings manually!
+
+- **A lot of the students blamed me whenever something went wrong.** While I would have loved to, I had no part in the creation of the automatic grader. As with everyone else, I was graded as normal, and one of my writings were even flagged as plagiarized! Many of the students have experienced the effects of testing a feature in production, from the bugs in the auto grader. I hope the students remember this experience, and do not make the same mistake of testing in production when they eventually write software, with higher stakes, in the future.
 
 <br>
 
-My goal for the weekly writing was to develop my writing skills to be good enough to start a personal blog. Therefore, I decided to dedicate a good amount of time to preparing and writing each week! 
-
-## My process for Writing
+## My Process for Writing
 
 ### I start out by writing a bunch of points I want to talk about, which come naturally just by thinking deeply about the topic.
 
 <details>
 
-```
 I think visual design has many practical applications.
 
 UI Design, Websites, Games, GUIs, Fliers, Logos, CVs, creating documents/reports/slides
@@ -38,14 +48,12 @@ If we extrapolate those ideas, we could have one set of slides for 'reading', af
 
 I think for any person to be successful, they need to be able to market themselves and attract the people around them. Understanding visual design plays a key role in achieving that goal
 
-```
 
 </details>
 
 
 <details>
 
-```
 In my opinion, an eye Visual Design is very important in our modern world. To be able to stand out amongst the crowd is no small feat, and Visual Design plays a key role in achieving that goal. The use cases of Visual Design are extensive, and include UI Design, Games, Logos, Reports, CVs, and more! I am thankful that I am learning about these concepts now, instead of trying to experiment and figure things out midway through my career.
 
 I do think that there are flaws in the Power Point slides, however, does it really matter? The slides are just one small factor in our learning experience, and
@@ -57,13 +65,11 @@ While it may seem harsh to be comparing the course to one from Harvard or MIT,
 held to the same standards
 While the criticism may seem heavy, being compared to courses from harvard and MIT reflects my opinion 
 Just one factor where there are many at play
-```
 
 </details>
 
 <details>
 
-```
 In my opinion, an eye for Visual Design is very important in our modern world. To be able to stand out amongst the crowd is no small feat, however Visual Design can help form a good Brand Image of you or your company. The use cases of Visual Design are extensive, and include UI Design, Games,  Logos, Reports, CVs, and more! I am thankful that I am learning these concepts now, instead of trying to figuring things out as I go throughout my career.
 
 I do think the slides are flawed in some aspects, however, does it matter?
@@ -85,7 +91,6 @@ While the criticism may seem heavy, being compared to courses from harvard and M
 Just one factor where there are many at play
 
 https://youtu.be/Unzc731iCUY?t=1449
-```
 
 </details>
 
@@ -94,7 +99,6 @@ https://youtu.be/Unzc731iCUY?t=1449
 
 <details>
 
-```
 USES OF VISUAL DESIGN
 An eye for Visual Design is very important in our modern world. 
 
@@ -107,13 +111,11 @@ Personally, I think the slides are a more supplementary source of information th
 From a novice's point of view, it may seem like the slides are great. However, I do think there are flaws. 
 
 https://youtu.be/Unzc731iCUY?t=1449
-```
 
 </details>
 
 <details>
 
-```
 In my opinion, an eye for Visual Design is very important in our modern world. To be able to stand out amongst the crowd is no small feat, however Visual Design can help form a good Brand Image of you or your company. The use cases of Visual Design are extensive, and include UI Design, Games,  Logos, Reports, CVs, and more! I am thankful that I am learning these concepts now, instead of trying to figuring things out as I go throughout my career.
 
 I do think the slides are flawed in some aspects, however, does it matter?
@@ -133,7 +135,6 @@ While it may seem harsh to be comparing the course to one from Harvard or MIT,
 held to the same standards
 While the criticism may seem heavy, being compared to courses from harvard and MIT reflects my opinion 
 Just one factor where there are many at play
-```
 
 </details>
 
@@ -142,8 +143,7 @@ Just one factor where there are many at play
 
 <details>
 
-```
-SLIDES
+## SLIDES
 
 Speaking about Presentation Design reminded me of this talk from MIT on Public Speaking:
 
@@ -172,15 +172,13 @@ Then I'll make the youtube video embedded
  CS50's slides have nothing! Just a black background with boxes
 //docs.google.com/presentation/d/1KMzq3bLe7g_O4JVYZ0lxuxHjShnIk54beO84-chYTig/edit#slide=id.g62f05f0593_0_5238
 
-```
 
 </details>
 
 
 <details>
 
-```
-SLIDES
+## SLIDES
 While I was thinking about the course's slides, I remembered this talk from MIT on Public Speaking:
 
 https://youtu.be/Unzc731iCUY?t=1449
@@ -208,15 +206,16 @@ From my quick research, I can summarize these points:
 - Bigger font size and removing 
 
 
-CONCLUSION
+## CONCLUSION
 While I do think there should be a hard copy of the information students students need to know, I don't think the slides are the ideal place to put those details. 
 
 However, there are serious drawbacks with what I have mentioned. In an ideal world, the professors would have enough time to dedicate to preparing their lecture materials. Sadly, we aren't in an ideal world, and our professors may have better things to do with their time. However, I do think that
-```
 
 </details>
 
 ### Finally, I link all the ideas together, and rewrite everything on Blackboard, for a finished weekly writing!
+
+[Link to the finished weekly writing here!](/writing/visual-design)
 
 ![Part 1](https://i.imgur.com/Q7pYydV.jpg)
 

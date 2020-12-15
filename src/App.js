@@ -40,7 +40,7 @@ function App() {
           <Route exact path="/">
             <Home width={cardWidth} />
           </Route>
-          
+
           <Route path="/proposal/ours">
             <OurProposal width={cardWidth} />
           </Route>
