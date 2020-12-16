@@ -19,11 +19,9 @@ function HeadingRenderer(props) {
 }
 
 const Markdown = ({ width, md, style }) => (
-	<Card border="primary" style={{ width, border: "none", ...style }} className="mx-auto" >
-		<Card.Body className="markdown-body">
-			<ReactMarkdown plugins={[gfm]} renderers={{ heading: HeadingRenderer }} children={md} allowDangerousHtml />
-		</Card.Body>
-	</Card >
+	<div style={{ width, ...style }} className="markdown-body mx-auto">
+		<ReactMarkdown plugins={[gfm]} renderers={{ heading: HeadingRenderer }} children={md} allowDangerousHtml />
+	</div>
 );
 
 export default Markdown;
