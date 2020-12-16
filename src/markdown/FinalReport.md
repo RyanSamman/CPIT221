@@ -1,4 +1,4 @@
-# Final Report
+<center><h1 id="final-report">Final Report</h1></center>
 
 After finishing the reports for CPIT201, I was not in the mood to write a third!
 

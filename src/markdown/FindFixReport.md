@@ -1,4 +1,5 @@
-Finding And Fixing Report Mistakes
+
+<center><h1 id="fix-report">Finding And Fixing Report Mistakes</h1></center>
 
 In one of the tasks, we were assigned to read through the summer students' job reports.
 
