@@ -8,7 +8,7 @@ const CustomNavbar = ({ active, setActive }) => {
 
 	return (
 		<Navbar id="top" bg="light" expand="sm" className="mb-4">
-			<Navbar.Brand active={isActive("/")} href="/">CPIT221</Navbar.Brand>
+			<Navbar.Brand active={isActive("/")} href="/">CPIT221 Experience</Navbar.Brand>
 			<Navbar.Toggle aria-controls="basic-navbar-nav" />
 			<Navbar.Collapse id="basic-navbar-nav">
 				<Nav className="mr-auto" onSelect={setActive}>
