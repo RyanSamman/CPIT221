@@ -12,6 +12,7 @@ import ReportMistakesMarkdown from './../markdown/ReportMistakes.md';
 import ProposalMarkdown from './../markdown/Proposal.md';
 import LaTeXMarkdown from './../markdown/LaTeX.md';
 import FinalReportMarkdown from './../markdown/FinalReport.md';
+import ConclusionMarkdown from './../markdown/Conclusion.md'
 
 import { InlineMath, BlockMath } from 'react-katex';
 import Skeleton from 'react-loading-skeleton';
@@ -59,10 +60,7 @@ const Home = ({ width }) => {
 			</center>
 			<BlockMath math={katex}></BlockMath>
 			<MarkdownFile width={width} url={FinalReportMarkdown} />
-
-
-
-			<center><h1>WIP - More coming soon :)</h1></center>
+			<MarkdownFile width={width} url={ConclusionMarkdown} />
 		</div>
 	)
 }
