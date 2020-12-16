@@ -32,8 +32,8 @@ function App() {
     return () => window.removeEventListener('resize', resize);
   });
   const MAX_SIZE = 800;
-  const cardWidth = 0.8 * width < MAX_SIZE ? 0.8 * width : MAX_SIZE;
-  const padding = 0.8 * width < MAX_SIZE ? "10%" : (width - MAX_SIZE) / 2;
+  const cardWidth = 0.9 * width < MAX_SIZE ? 0.9 * width : MAX_SIZE;
+  const padding = 0.95 * width < MAX_SIZE ? "5%" : (width - MAX_SIZE) / 2;
 
   return (
     <>
