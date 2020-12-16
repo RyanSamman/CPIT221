@@ -5,6 +5,7 @@ import { Route, Switch } from 'react-router';
 // Components
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
+import MarkdownFile from './components/MarkdownFile';
 
 // Pages
 import Home from './pages/Home';
@@ -18,6 +19,8 @@ import Page404 from './pages/Page404';
 import TextToSpeech from './pages/TextToSpeech';
 import OurProposal from './pages/OurProposal';
 import WeeklyWriting from './pages/WeeklyWriting';
+
+import Secret from './markdown/Secret.md';
 
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
@@ -39,6 +42,10 @@ function App() {
         <Switch>
           <Route exact path="/">
             <Home width={cardWidth} />
+          </Route>
+
+          <Route path="/secret">
+            <MarkdownFile width={cardWidth} url={Secret}/>
           </Route>
 
           <Route path="/proposal/ours">
