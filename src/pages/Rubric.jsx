@@ -29,7 +29,7 @@ const RubricCards = ({ cardWidth = "" }) => (
 		</Helmet>
 		<Title>Proposal Grading Rubric</Title>
 		<Markdown width={cardWidth} md={markdown} />
-		<div style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start" }}>
+		<div className="mt-3" style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start" }}>
 			{Object.entries(data["Bar Plot"]).map(([category, catData]) => (
 				<>
 					<Card className="m-2" key={category} title={category} >

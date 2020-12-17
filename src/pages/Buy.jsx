@@ -9,7 +9,7 @@ import Title from './../components/Title';
 const Video = ({ width, id, name, description }) => {
 	width *= 0.95;
 	return (
-		<Card.Body>
+		<div style={{ padding: 20 }}>
 			<center>
 				<h2>{name}</h2>
 				<p>	{description}</p>
@@ -17,7 +17,7 @@ const Video = ({ width, id, name, description }) => {
 			<div className="video mt-1 mb-3" >
 				<YoutubeVideo width={width} id={id} />
 			</div >
-		</Card.Body>
+		</div>
 	);
 };
 
@@ -30,9 +30,9 @@ const Buy = ({ width }) => (
 		</Helmet>
 		<Title>Make Me Buy</Title>
 		<MarkdownFile width={width} url={buyMarkdown} />
-		<Card border="primary" className="mx-auto" style={{ border: "none", width: width }} >
+		<div className="mx-auto" style={{ width: width }} >
 			{videos.map((video, i) => <Video key={i} width={width} {...video} />)}
-		</Card>
+		</div>
 	</>
 );
 
