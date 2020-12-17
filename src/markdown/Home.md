@@ -31,7 +31,7 @@ The tasks may seem daunting at first, and even I was nervous of the thought of d
 - [I have started a Professional Twitter account](https://twitter.com/Ryan_Samman_), which I post my programming projects in.
 - [I started uploading videos to YouTube](https://www.youtube.com/channel/UCGifqU_TZEzeqE6eMTjcs8w/), not only related to the course, but also explaining concepts as I learn them from the other courses. I also have a couple video ideas planned for after the exams are finished!
 - I have developed my skills in working as a team, and [I have created a discord server to study and program in.](https://discord.gg/gVrBhRp47F) In fact, I created most of this website live on Discord!
-- And finally, [I am now in the process of creating a blog of my own](), to document my programming journey so far, and the concepts I learn in the future!
+- And finally, [I am now in the process of creating a blog of my own](/), to document my programming journey so far, and the concepts I learn in the future!
 - [The course has directed our work into suggesting improvements to existing courses, in an organized and professional way.](https://twitter.com/rayed1420/status/1332299132254515201)
 
 Furthermore, from the skills I have learnt through the course, I have met many interesting people which I am excited to be working with in the future!
