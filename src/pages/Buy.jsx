@@ -4,6 +4,7 @@ import buyMarkdown from './../markdown/Buy.md';
 import videos from './../videos.json';
 import YoutubeVideo from './../components/YoutubeVideo';
 import { Helmet } from 'react-helmet';
+import Title from './../components/Title';
 
 const Video = ({ width, id, name, description }) => {
 	width *= 0.95;
@@ -27,11 +28,7 @@ const Buy = ({ width }) => (
 			<title>CPIT221 - Make Me Buy</title>
 			<meta name="description" content="Make Me Buy Videos." />
 		</Helmet>
-		<center>
-			<h1>
-				Make Me Buy
-			</h1>
-		</center>
+		<Title>Make Me Buy</Title>
 		<MarkdownFile width={width} url={buyMarkdown} />
 		<Card border="primary" className="mx-auto" style={{ border: "none", width: width }} >
 			{videos.map((video, i) => <Video key={i} width={width} {...video} />)}

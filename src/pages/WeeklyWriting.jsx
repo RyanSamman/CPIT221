@@ -4,6 +4,7 @@ import writingMarkdown from './../markdown/Writing.md'
 import writingData from './../writing/writings';
 import Card from './../components/Card';
 import { Helmet } from 'react-helmet';
+import Title from './../components/Title';
 
 const monthNames = [null, "January", "February", "March", "April", "May", "June",
 	"July", "August", "September", "October", "November", "December"
@@ -27,7 +28,7 @@ Below are all the weekly writings I've written for the CPIT221 course, covering 
 const OldWritings = ({ width }) => {
 	return (
 		<>
-			<center><h1>My Weekly Writings</h1></center>
+			<Title>My Weekly Writings</Title>
 			<Markdown width={width} md={markdown}></Markdown>
 			<Card style={{ border: "none" }} width={width} className="mx-auto">
 				{Object.keys(writingData).map(w => <WritingPost key={w} url={w} {...writingData[w]} />)}

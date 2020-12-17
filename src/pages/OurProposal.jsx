@@ -12,9 +12,11 @@ const OurProposal = ({ width }) => (
 			<title>CPIT221 - Our Proposal</title>
 			<meta name="description" content="Our Proposal for improving the CPIT221 Course" />
 		</Helmet>
-		<Title>Our Proposal</Title>
+		<Title>Our Proposal - Modernizing CPCS202</Title>
+
 		<MarkdownFile width={width} url={ourProposalMarkdown} />
 		<center>
+			<br />
 			<YoutubeVideo width={width} id={"1lalKs9CZtw"} />
 
 			<TwitterTweetEmbed tweetId="1328294654371131392" placeholder={<Skeleton height={500} />} />

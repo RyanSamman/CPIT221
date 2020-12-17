@@ -1,6 +1,5 @@
 import { useState } from 'react';
 
-import Title from './../components/Title';
 import blogWordCloud from './../wordCloud.png';
 import { TwitterTweetEmbed } from 'react-twitter-embed';
 import MarkdownFile from '../components/MarkdownFile';

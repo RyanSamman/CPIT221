@@ -7,6 +7,7 @@ import Card from './../components/Card';
 import valueMarkdown from './../markdown/Values.md';
 import valueTweets from './../valueTweets.json';
 import { Helmet } from 'react-helmet';
+import Title from './../components/Title';
 
 const Tweet = ({ id, width, name, description, major }) => {
 
@@ -39,9 +40,7 @@ const Values = ({ width }) => (
 			<title>CPIT221 - Values</title>
 			<meta name="description" content="The Last Weekly Writing for CPIT221" />
 		</Helmet>
-		<center>
-			<h1> What is Your Value? </h1>
-		</center>
+		<Title>What is Your Value?</Title>
 		<MarkdownFile width={width} url={valueMarkdown} />
 		<center>
 			{valueTweets.map((tweetData, i) => <Tweet key={i} width={width} {...tweetData} />)}
