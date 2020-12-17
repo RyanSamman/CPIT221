@@ -30,7 +30,7 @@ const OldWritings = ({ width }) => {
 			<center><h1>My Weekly Writings</h1></center>
 			<Markdown width={width} md={markdown}></Markdown>
 			<Card style={{ border: "none" }} width={width} className="mx-auto">
-				{Object.keys(writingData).map(w => <WritingPost url={w} {...writingData[w]} />)}
+				{Object.keys(writingData).map(w => <WritingPost key={w} url={w} {...writingData[w]} />)}
 			</Card>
 		</>
 	)
