@@ -6,6 +6,7 @@ import grades from './../grades.json';
 import { DropdownButton, Dropdown, Table } from 'react-bootstrap';
 import { RadialGauge } from 'reaviz';
 import tableFormat from './../tableFormat.json';
+import { Helmet } from 'react-helmet';
 
 // TODO: Refactor
 
@@ -72,6 +73,10 @@ const GradeCard = ({ cardWidth }) => {
 
 	return (
 		<>
+			<Helmet>
+				<title>CPIT221 - Proposal Grades</title>
+				<meta name="description" content="All the Group Grades for the Proposal." />
+			</Helmet>
 			<div>
 				<DropdownButton className="ml-5" title="Select a Group">
 					{Object.keys(grades).map(g => (

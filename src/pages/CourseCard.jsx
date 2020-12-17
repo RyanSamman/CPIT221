@@ -1,6 +1,7 @@
 import data from '../data.json';
 import Markdown from './../components/Markdown';
 import { PieChart } from 'reaviz';
+import { Helmet } from 'react-helmet';
 
 const markdown = `
 <center><h1>Chosen Course</h1></center>
@@ -24,6 +25,10 @@ This leaves the students uninterested in the subject, and unprepared for using s
 
 const CourseCard = ({ cardWidth }) => (
 	<>
+		<Helmet>
+			<title>CPIT221 - Proposal Chosen Courses</title>
+			<meta name="description" content="The Chosen Proposal for the courses." />
+		</Helmet>
 		<Markdown width={cardWidth} md={markdown} />
 		<div className="mx-auto" style={{ width: "fit-content" }}>
 			<PieChart

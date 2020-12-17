@@ -3,9 +3,14 @@ import YoutubeVideo from './../components/YoutubeVideo';
 import { TwitterTweetEmbed } from 'react-twitter-embed';
 import ourProposalMarkdown from './../markdown/OurProposal.md';
 import Skeleton from 'react-loading-skeleton';
+import { Helmet } from 'react-helmet';
 
 const OurProposal = ({ width }) => (
 	<>
+		<Helmet>
+			<title>CPIT221 - Our Proposal</title>
+			<meta name="description" content="Our Proposal for improving the CPIT221 Course" />
+		</Helmet>
 		<MarkdownFile width={width} url={ourProposalMarkdown} />
 		<center>
 			<YoutubeVideo width={width} id={"1lalKs9CZtw"} />

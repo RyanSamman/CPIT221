@@ -6,6 +6,7 @@ import MarkdownFile from './../components/MarkdownFile';
 import Card from './../components/Card';
 import valueMarkdown from './../markdown/Values.md';
 import valueTweets from './../valueTweets.json';
+import { Helmet } from 'react-helmet';
 
 const Tweet = ({ id, width, name, description, major }) => (
 	<div className="my-2">
@@ -30,6 +31,10 @@ Overall, a good portion of the students seem to not be confident in using Twitte
 
 const Values = ({ width }) => (
 	<>
+		<Helmet>
+			<title>CPIT221 - Values</title>
+			<meta name="description" content="The Last Weekly Writing for CPIT221" />
+		</Helmet>
 		<MarkdownFile width={width} url={valueMarkdown} />
 		<center>
 			{valueTweets.map((tweetData, i) => <Tweet key={i} width={width} {...tweetData} />)}

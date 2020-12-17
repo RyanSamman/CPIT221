@@ -6,6 +6,7 @@ import { Route, Switch } from 'react-router';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import MarkdownFile from './components/MarkdownFile';
+import { Helmet } from 'react-helmet';
 
 // Pages
 import Home from './pages/Home';
@@ -38,6 +39,7 @@ function App() {
   return (
     <>
       <Navbar />
+
       <div style={{ paddingLeft: padding, paddingRight: padding }}>
         <Switch>
           <Route exact path="/">
@@ -45,6 +47,10 @@ function App() {
           </Route>
 
           <Route path="/secret">
+            <Helmet>
+              <title>Secret Page...</title>
+              <meta name="description" content="A Secret Page." />
+            </Helmet>
             <MarkdownFile width={cardWidth} url={Secret}/>
           </Route>
 

@@ -3,6 +3,7 @@ import Markdown from './../components/Markdown';
 import writingMarkdown from './../markdown/Writing.md'
 import writingData from './../writing/writings';
 import Card from './../components/Card';
+import { Helmet } from 'react-helmet';
 
 const monthNames = [null, "January", "February", "March", "April", "May", "June",
 	"July", "August", "September", "October", "November", "December"
@@ -40,6 +41,10 @@ const WeeklyWriting = ({ width }) => {
 
 	return (
 		<>
+			<Helmet>
+				<title>CPIT221 - Weekly Writing</title>
+				<meta name="description" content="Describing my thinking behind the Weekly Writings I've done for the Course." />
+			</Helmet>
 			<OldWritings width={width} />
 			<MarkdownFile width={width} url={writingMarkdown} />
 		</>

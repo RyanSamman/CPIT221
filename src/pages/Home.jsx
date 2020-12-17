@@ -14,7 +14,7 @@ import LaTeXMarkdown from './../markdown/LaTeX.md';
 import FinalReportMarkdown from './../markdown/FinalReport.md';
 import ConclusionMarkdown from './../markdown/Conclusion.md'
 
-import { InlineMath, BlockMath } from 'react-katex';
+import { Helmet } from 'react-helmet';
 import Skeleton from 'react-loading-skeleton';
 
 
@@ -23,6 +23,10 @@ const Home = ({ width }) => {
 
 	return (
 		<div>
+			<Helmet>
+				<title>CPIT221 - Home</title>
+				<meta name="description" content="A Website Visualizing CPIT221 and describing my Experience with the course." />
+			</Helmet>
 			<center className="my-5">
 				<h5>From Zero To Hero...</h5>
 				<h1>My Experience with CPIT221</h1>

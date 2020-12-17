@@ -1,5 +1,6 @@
 import Markdown from './../components/Markdown';
 import { useState } from 'react';
+import { Helmet } from 'react-helmet';
 
 const markdown = `
 <center><h1>Text To Speech</h1></center>
@@ -40,6 +41,10 @@ export default function TextToSpeech({ width }) {
 	const [text, setText] = useState("Test Text to Speech by clicking the button below! If you want to put your own text, insert it in the text box above!");
 	return (
 		<div>
+			<Helmet>
+				<title>CPIT221 - Text To Speech</title>
+				<meta name="description" content="Playing around with Text-To-Speech" />
+			</Helmet>
 			<Markdown width={width} md={markdown} />
 			<center>
 				<br />

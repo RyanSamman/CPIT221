@@ -2,6 +2,7 @@ import Card from '../components/Card';
 import Markdown from './../components/Markdown';
 import data from '../data.json';
 import GaugeChart from '../components/GaugeChart';
+import { Helmet } from 'react-helmet';
 
 const markdown = `
 
@@ -25,6 +26,10 @@ However, it is understandable for the grading scheme to stay as is, as there is 
 
 const RubricCards = ({ cardWidth = "" }) => (
 	<>
+		<Helmet>
+			<title>CPIT221 - Proposal Rubric</title>
+			<meta name="description" content="Rubric of the Proposal." />
+		</Helmet>
 		<Markdown width={cardWidth} md={markdown} />
 		<div style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start"}}>
 		{Object.entries(data["Bar Plot"]).map(([category, catData]) => (
