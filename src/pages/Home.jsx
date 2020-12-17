@@ -8,12 +8,13 @@ import TableOfContents from './../markdown/TableOfContents.md';
 import YoutubeVideo from './../components/YoutubeVideo';
 import firstVideoMarkdown from './../markdown/FirstVideo.md';
 import firstTaskMarkdown from './../markdown/FirstTask.md';
-import ReportMistakesMarkdown from './../markdown/ReportMistakes.md';
+import ReportMistakesMarkdown from './../markdown/FindFixReport.md';
 import ProposalMarkdown from './../markdown/Proposal.md';
 import LaTeXMarkdown from './../markdown/LaTeX.md';
 import FinalReportMarkdown from './../markdown/FinalReport.md';
 import ConclusionMarkdown from './../markdown/Conclusion.md'
 
+import { BlockMath } from 'react-katex';
 import { Helmet } from 'react-helmet';
 import Skeleton from 'react-loading-skeleton';
 

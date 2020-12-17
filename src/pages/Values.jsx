@@ -8,13 +8,17 @@ import valueMarkdown from './../markdown/Values.md';
 import valueTweets from './../valueTweets.json';
 import { Helmet } from 'react-helmet';
 
-const Tweet = ({ id, width, name, description, major }) => (
-	<div className="my-2">
-		<h3>{name} {major ? `- ${major}` : ""}</h3>
-		<Markdown width={width} md={description}></Markdown>
-		<TwitterTweetEmbed tweetId={id} placeholder={<Skeleton height={500} />} />
-	</div>
-)
+const Tweet = ({ id, width, name, description, major }) => {
+
+	return (
+		<div className="my-4">
+			<h3>{name} {major ? `- ${major}` : ""}</h3>
+			{!description ? null : <Markdown width={width} md={description}></Markdown>}
+			<TwitterTweetEmbed tweetId={id} placeholder={<Skeleton height={500} />} />
+		</div>
+
+	)
+}
 
 const description2 = `
 <center><h1>Twitter Data</h1></center>
@@ -35,6 +39,9 @@ const Values = ({ width }) => (
 			<title>CPIT221 - Values</title>
 			<meta name="description" content="The Last Weekly Writing for CPIT221" />
 		</Helmet>
+		<center>
+			<h1> What is Your Value? </h1>
+		</center>
 		<MarkdownFile width={width} url={valueMarkdown} />
 		<center>
 			{valueTweets.map((tweetData, i) => <Tweet key={i} width={width} {...tweetData} />)}

@@ -4,7 +4,7 @@ import { DiscussionEmbed } from 'disqus-react';
 import { Helmet } from 'react-helmet';
 
 const monthNames = [null, "January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December"
+	"July", "August", "September", "October", "November", "December"
 ];
 
 const Header = ({ width, name, date }) => {

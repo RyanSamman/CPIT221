@@ -31,20 +31,20 @@ const RubricCards = ({ cardWidth = "" }) => (
 			<meta name="description" content="Rubric of the Proposal." />
 		</Helmet>
 		<Markdown width={cardWidth} md={markdown} />
-		<div style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start"}}>
-		{Object.entries(data["Bar Plot"]).map(([category, catData]) => (
-			<>
-				<Card className="m-2" key={category} title={category} >
-					{Object.entries(catData).map(([category, { Y, N }]) => (
-						<GaugeChart key={category} name={category} Y={Y} N={N} />
-					))}
-				</Card>
+		<div style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start" }}>
+			{Object.entries(data["Bar Plot"]).map(([category, catData]) => (
+				<>
+					<Card className="m-2" key={category} title={category} >
+						{Object.entries(catData).map(([category, { Y, N }]) => (
+							<GaugeChart key={category} name={category} Y={Y} N={N} />
+						))}
+					</Card>
 
-				<br />
-			</>
-		))}
+					<br />
+				</>
+			))}
 		</div>
-		<Markdown width={cardWidth} md={markdown2}/>
+		<Markdown width={cardWidth} md={markdown2} />
 	</>
 )
 

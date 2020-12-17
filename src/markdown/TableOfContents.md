@@ -2,15 +2,14 @@
 <h1>Table Of Contents</h1>
 </center>
 
-Not much for now!
-
 - [Intro](#top)
 - [Suprise on the First Day](#suprise)
 - [First Task](#first-task)
-- [Finding & Fixing Report Mistakes]()
-- [Proposal]()
-- [LaTeX]()
-- [Final Report]()
+- [Finding & Fixing Report Mistakes](#fix-report)
+- [Proposal](#proposal)
+- [LaTeX](#latex)
+- [Final Report](#final-report)
+- [Ending](#end)
 
 ## Other Pages
 - [Weeky Writing](/writing)
