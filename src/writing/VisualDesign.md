@@ -7,34 +7,42 @@ While technical skills and knowledge are important, humans are inherently visual
 ## EVALUATION OF THE SLIDES
 
 While I was thinking about the design of the course's slides, I remembered this talk from MIT on Public Speaking:
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Unzc731iCUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
 
 In the talk, the presenter briefly spoke about the use of slides, and how slides should be structured to grasp the attention of the audience. Or rather yet, **for slides to NOT grasp the attention of the audience.** To clarify my point, I did a case study of an extremely successful Computer Science course, [Harvard's CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science) [[alt](https://cs50.harvard.edu/x/2020/)].
 
 Looking through [CS50x's Slides](https://docs.google.com/presentation/d/1KMzq3bLe7g_O4JVYZ0lxuxHjShnIk54beO84-chYTig/edit), the results are shocking:
 
+<center>
 
 ![Linked List Slides](https://i.imgur.com/nnQ01gS.jpg)
 
 Slides on Linked Lists
 
-
+</center>
 
 There is barely anything on the slides! As you can see, they haven't just minimized the clutter, but have eliminated it entirely! **The only thing on each slide is a visualization of a concept that the presenter wants the audience to be learning at that point in time.**
 
 
 Compared to a Slide from CPIT221:
 
+<center>
+
 ![CPIT221 Slide1](https://i.imgur.com/3e1rubT.png)
 
+</center>
 
 Spot the difference? Although there may be more content on CPIT221's slides, to read the slides while the lecture is midway causes you to lose focus on the professor. Furthermore, the visual elements are definitely great, but it distracts the audience from both the text and the professor!
 
 In this case, a more appropriate slide would be simply **showing** what whitespace is, and in the process, why it is important:
 
+<center>
+
 ![Whitespace](https://milq.github.io/white-space/white-space.png)
 
+</center>
 
 Just from a quick glance at the picture, you can immediately understand what would otherwise take paragraphs to describe.
 

@@ -19,7 +19,9 @@ Only a year ago, CPIT221 was just focusing on writing skills. However, since the
 
 The tasks may seem daunting at first, and even I was nervous of the thought of doing those tasks! However, with time, we all got out of our comfort zone, and the majority of us were able to complete the tasks successfuly. In retrospect, each task covered important topics, and provided the students a strong foundation for developing professional skills well into the future. 
 
-<img src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
+<center>
+<img style="max-height:500px;" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
+</center>
 
 <br>
 

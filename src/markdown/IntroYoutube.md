@@ -1,5 +1,5 @@
 <center>
-<h1 id="first-task">First Task</h1>
+<h1 id="first-task">Introductory Youtube Video</h1>
 </center>
 
 
@@ -8,7 +8,7 @@ Our First task was to create a youtube video talking about ourselves for approxi
 I recorded my video exactly 127 times, and it took me nearly 4 hours to complete! From this task, I finally overcame my shyness, and became significantly better at speaking coherently. 
 
 <center>
-<img src="https://i.imgur.com/ZKCWIxf.jpg" alt="Attempts">
+<img style="max-height: 500px;" src="https://i.imgur.com/ZKCWIxf.jpg" alt="Attempts">
 </center>
 
 <br>

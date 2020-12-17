@@ -26,16 +26,14 @@ If you have a background in business and technology, this is the major for you.
 
 Before going into the benifits, it is important to know the drawbacks and difficulties of each major.
 
-TODO - Remove mention of DevOps, too complex for students to understand at this point
-
 ## Computer Science
 The main complaint I see is from MATH201. It is the price of entry for Computer Science, leaving students with a bad taste in only their first term. Furthermore, Computer Science depends heavily on logical thinking. While most of the concepts learnt are mainly theoretical, you tend to learn how to think in the process. Furthermore, you tend to learn the very basics of everything, and don't go into enough depth for mastery of any of the tracks.
 
 ## IT
-Many people look down on the major for being 'IT Support'. While it may be an overexaggeration, it may be true! With misaligned goals between departments, the IT Operations department tends to be what cleans up the mess of Development, and are the ones usually to blame for failures in production. The issue with misaligned goals is so major, a movement called DevOps has started to emerge, combining the Development and IT Operations departments. (The Phoenix Project) Furthermore, it seems like there is more memorization than understanding, and the course contents seem to be quite outdated.
+t seems like there is more memorization than understanding, and the course contents seem to be quite outdated.
 
 ## IS
-Many people don't know much about this major, which I think is it's biggest drawback. However, back to DevOps, the departments and employees of the departments tend to have goals of their own, and do not work together for the sake of the entire company. Therefore, it is critical for there to be people who understand both the technical side, and the business side of things. As a result, you tend to see IS majors assuming leadership positions and creating startups, as they are able to deal with both sides of the picture.
+Many people don't know much about this major, which I think is it's biggest drawback. A major issue with software development these days are the rift between the  Therefore, it is critical for there to be people who understand both the technical and business side of things. As a result, you tend to see IS majors assuming leadership positions and creating startups, as they are able to deal with both sides of the picture.
 
 # Benifits
 
@@ -48,14 +46,16 @@ IT is the lifeblood of most companies. They provide the infrastructure, security
 ## CS
 While the majority of the concepts are theoretical, these problems build your logical thinking. You would also be able to build scalable and interesting solutions to problems. Furthermore, if you want to pursue higher education in AI/Cryptography etc, this is the major to choose. The minister of health is a Computer Science major.
 
-# My opinion
+# My Opinion
 
 In my opinion, the major you choose does not matter much. No matter which one you choose, the most important thing is to work on your own skills. Go beyond the courses, and find ways to apply the concepts you have learnt. Personally, I believe that students who actively try applying the concepts they have learnt are far better off than those who study simply for the grades. Of course, applying the concepts in a practical manner indirectly boosts your grades, as you have not only known of the existence of a concept, but have applied it to a real world scenario!
 
 I know medicine students, who already have a lot on their plate, learning Computer Science and AI, entirely on their own. This shows that the major is not important, but your motivation and willingness to learn!
 
 Personally, I have chosen Computer Science. While I think all the majors are extremely important, I believe the concepts I will learn in Computer Science would be the most relevant to my goals. However, I will be learning IT skills on my own, but instead of the more traditional method, I will be cherry picking concepts that I am interested in, and plan on using into the future. 
-
+<center>
+<h1></h1>
+</center>
 
 Computer Science is largely theory - therefore, it needs to be supplemented with practical skills learnt on your own. This may seem like a major drawback. However, it allows me the freedom to learn the most up-to-date technologies, that I would actually use, at my own pace.
 

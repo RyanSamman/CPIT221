@@ -1,4 +1,9 @@
-<img align="left" className="sideImage" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
+
+<center>
+
+<img style="max-height:500px;" className="sideImage" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
+
+</center>
 
 ## TASK BASED LEARNING
 

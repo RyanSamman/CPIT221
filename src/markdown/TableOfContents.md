@@ -2,16 +2,19 @@
 <h1>Table Of Contents</h1>
 </center>
 
-- [Intro](#top)
+- [Introduction](#top)
 - [Suprise on the First Day](#suprise)
-- [First Task](#first-task)
+- [Introductory Youtube Video](#first-task)
 - [Finding & Fixing Report Mistakes](#fix-report)
 - [Proposal](#proposal)
 - [LaTeX](#latex)
 - [Final Report](#final-report)
 - [Ending](#end)
 
-## Other Pages
+<center>
+<h2>Other Pages</h2>
+</center>
+
 - [Weeky Writing](/writing)
 - [Make Me Buy](/buy)
 - [Value](/values)

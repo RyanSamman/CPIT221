@@ -3,7 +3,11 @@ In the end of CPIT221, we were asked to create a tweet, **emphasizing the values
 
 Of those who had skills, this was the perfect opportunity for students to get to know eachother better, [**and my post got nearly 6,000 views**!](https://twitter.com/Ryan_Samman_/status/1329048742553661441)
 
+<center>
+
 ![Twitter Post](https://i.imgur.com/glZ3UWs.png)
+
+</center>
 
 However, the majority of students tended to lack a strong set of skills. That is perfectly fine! As freshman students of FCIT, the majority of us are still figuring out and developing our skills. 
 

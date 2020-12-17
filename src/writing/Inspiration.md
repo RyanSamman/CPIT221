@@ -23,7 +23,11 @@ However, I apologize to Ahmed Al Taib, as he sits in 2nd place in my array of ro
 
 Just as CPIT110 was the push I needed to start developing my programming skills, CPIT221 has done the same for my Communication Skills. As you can see from many of my friends from my foundation year:
 
+<center>
+
 ![Reactions](https://i.imgur.com/phqyN7k.png)
+
+</center>
 
 Many agree that I was horrible at communicating. **I was a very shy person, had a horrible stutter, and I wasn't confident in myself**. However, due to Dr. Buhari and Dr. Rayed's efforts in the CP
 
@@ -33,15 +37,27 @@ IT221 course, I have advanced my communication skills greatly across several fro
 
 As you can see from my first video, it wasn't that great. In fact, I even made the video private afterwards, out of embarrassment. 
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uor4oVz-WJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 After that first video, I spent possibly hundreds of hours making YouTube videos on the subjects I've taken in FCIT to develop my oral communication, as I was more used to explaining with text from my group in High School. While the video and sound quality itself was horrible, the goal was mainly to practice speaking, without stuttering.
 
+<center>
+
 ![Videos](https://i.imgur.com/QsNhzXk.png)
+
+</center>
 
 Then, I was introduced to the Make Me Buy task, where I learned how to use a camera and edit videos.
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zigvhb_FRtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
 
 While the videos still aren't great, I have identified exactly where the videos fall short, and I will take account of them the next time I record a video. I nearly finished several scripts for videos on skills programmers need before even starting programming, such as Git & GitHub, IDEs, and all I have left to do is record it! 
 
@@ -49,7 +65,11 @@ While the videos still aren't great, I have identified exactly where the videos 
 
 In the beginning of the course, I decided it would be fun to spend 10 hours on the weekly journals, just to see how the quality would turn out. [The result was also an improvement in my GitHub documentation!](https://github.com/RyanSamman/BlogWordCloud)
 
+<center>
+
 ![BlogWordCloud](https://i.imgur.com/gIKXL9Y.png)
+
+</center>
 
 The weekly writing tasks have also allowed me [to create one of my favorite writings yet!](/writing/visual-design)
 

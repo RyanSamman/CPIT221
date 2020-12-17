@@ -1,6 +1,10 @@
 We had difficulties with the make me buy task, mainly because most of us haven't even begun! 
 
+<center>
+
 ![Headache](https://i.imgur.com/uOj8glC.jpg)
+
+</center>
 
 You might ask, why haven't I begun? Personally,  since the beginning of October I have been preoccupied with studying for the mid-term exams. You can see this reflected in the quality of the weekly writings I've written. While most people have become better at the writing, my writing has become worse! While I used to spend hours doing my weekly writing, I no longer have the time to write to that standard.
 

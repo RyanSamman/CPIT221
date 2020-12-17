@@ -7,8 +7,7 @@ import homeMarkdown from './../markdown/Home.md';
 import tweetMarkdown from './../markdown/Tweet.md';
 import TableOfContents from './../markdown/TableOfContents.md';
 import YoutubeVideo from './../components/YoutubeVideo';
-import firstVideoMarkdown from './../markdown/FirstVideo.md';
-import firstTaskMarkdown from './../markdown/FirstTask.md';
+import IntroYoutubeMarkdown from './../markdown/IntroYoutube.md';
 import ReportMistakesMarkdown from './../markdown/FindFixReport.md';
 import ProposalMarkdown from './../markdown/Proposal.md';
 import LaTeXMarkdown from './../markdown/LaTeX.md';
@@ -29,15 +28,15 @@ const Home = ({ width }) => {
 				<title>CPIT221 - Home</title>
 				<meta name="description" content="A Website Visualizing CPIT221 and describing my Experience with the course." />
 			</Helmet>
-			<center className="my-5">
+
+			<center className="py-5">
 				<h5>From Zero To Hero...</h5>
-				<Title>My Experience with CPIT221</Title>
+				<center><h1>My Experience with CPIT221</h1></center>
 				<h5>Ryan Samman</h5>
 				<br />
 				<img alt="BlogWordCloud" src={blogWordCloud} width={width} />
 			</center>
-			<div style={{ border: "none" }}>
-			</div>
+
 			<MarkdownFile width={width} url={homeMarkdown} />
 			<center>
 				<TwitterTweetEmbed tweetId={"1330247365886963712"} placeholder={<Skeleton height={500} />} />
@@ -50,9 +49,8 @@ const Home = ({ width }) => {
 			<center>
 				<TwitterTweetEmbed tweetId={"1302887084252958721"} placeholder={<Skeleton height={500} />} />
 			</center>
-			<MarkdownFile width={width} url={firstVideoMarkdown} />
+			<MarkdownFile width={width} url={IntroYoutubeMarkdown} />
 
-			<MarkdownFile width={width} url={firstTaskMarkdown} />
 			<center>
 				<YoutubeVideo width={width} id={"uor4oVz-WJc"} />
 			</center>
@@ -60,11 +58,12 @@ const Home = ({ width }) => {
 			<MarkdownFile width={width} url={ReportMistakesMarkdown} />
 			<MarkdownFile width={width} url={ProposalMarkdown} />
 			<MarkdownFile width={width} url={LaTeXMarkdown} />
-			{/* No chance for XSS here, don't try it c: */}
-			<center>
-				<input value={katex} onChange={(e) => setKatex(e.target.value)} />
-			</center>
-			<BlockMath math={katex}></BlockMath>
+			<div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly' }}>
+				<div className="my-auto">
+					<input value={katex} onChange={(e) => setKatex(e.target.value)} />
+				</div>
+				<BlockMath math={katex}></BlockMath>
+			</div>
 			<MarkdownFile width={width} url={FinalReportMarkdown} />
 			<MarkdownFile width={width} url={ConclusionMarkdown} />
 		</div>

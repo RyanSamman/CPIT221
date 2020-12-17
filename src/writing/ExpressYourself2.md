@@ -32,4 +32,8 @@ As you can see - both drafts contain the same idea - yet are presented different
 
 Furthermore, following a visual hierarchy will help the reader find the most important parts of your writing.
 
+<center>
+
 ![Visual Hiearchy](https://i.imgur.com/21SUFAG.jpg)
+
+</center>
