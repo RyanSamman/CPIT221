@@ -38,3 +38,15 @@ p, li, tr {
   ::-webkit-scrollbar-thumb:hover {
 	background: #555; 
 }
+
+/* Link Scrolling */
+@media (prefers-reduced-motion: no-preference) {
+	html {
+	  scroll-behavior: smooth;
+}
+	
+/* Add some spacing between the target and the top of the viewport*/
+:target {
+		scroll-margin-top: 0.8em;
+	}
+}
