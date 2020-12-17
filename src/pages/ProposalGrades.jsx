@@ -2,10 +2,10 @@ import { useState } from 'react';
 import data from '../data.json';
 import Card from '../components/Card';
 import { BarChart } from 'reaviz';
-import grades from './../grades.json';
+import grades from '../grades.json';
 import { DropdownButton, Dropdown, Table } from 'react-bootstrap';
 import { RadialGauge } from 'reaviz';
-import tableFormat from './../tableFormat.json';
+import tableFormat from '../tableFormat.json';
 import { Helmet } from 'react-helmet';
 
 // TODO: Refactor

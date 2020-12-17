@@ -1,9 +1,9 @@
 import Card from '../components/Card';
-import Markdown from './../components/Markdown';
+import Markdown from '../components/Markdown';
 import data from '../data.json';
 import GaugeChart from '../components/GaugeChart';
 import { Helmet } from 'react-helmet';
-import Title from './../components/Title';
+import Title from '../components/Title';
 
 const markdown = `
 There are some points which nearly all the groups failed to implement, and hopefully the next batch of students would see these charts, and know to what they need to focus on!

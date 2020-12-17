@@ -10,9 +10,9 @@ import { Helmet } from 'react-helmet';
 
 // Pages
 import Home from './pages/Home';
-import CourseCard from './pages/CourseCard';
-import GradeCard from './pages/GradeCard';
-import RubricCards from './pages/RubricCards';
+import ChosenCourse from './pages/ChosenCourse';
+import ProposalGrades from './pages/ProposalGrades';
+import Rubric from './pages/Rubric';
 import Writing from './writing/Writing';
 import Values from './pages/Values';
 import Buy from './pages/Buy';
@@ -59,15 +59,15 @@ function App() {
           </Route>
 
           <Route path="/proposal/chosen">
-            <CourseCard cardWidth={cardWidth} />
+            <ChosenCourse cardWidth={cardWidth} />
           </Route>
 
           <Route path="/proposal/grades">
-            <GradeCard cardWidth={cardWidth} />
+            <ProposalGrades cardWidth={cardWidth} />
           </Route>
 
           <Route path="/proposal/rubric">
-            <RubricCards cardWidth={cardWidth} />
+            <Rubric cardWidth={cardWidth} />
           </Route>
 
           <Route path="/values">
