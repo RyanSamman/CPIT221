@@ -1,9 +1,4 @@
 
-<center>
-<h1> What is Your Value? </h1>
-</center>
-
-
 In the end of CPIT221, we were asked to create a tweet, **emphasizing the values we bring to the table**, instead of the last two Weekly Writing tasks.
 
 Of those who had skills, this was the perfect opportunity for students to get to know eachother better, [**and my post got nearly 6,000 views**!](https://twitter.com/Ryan_Samman_/status/1329048742553661441)

@@ -1,6 +1,3 @@
-# Our Proposal
-
-
 [Google Drive Link to the Survey Data, Slides, and Full Proposal](https://drive.google.com/drive/folders/1fS-peh5vJn7GGoro9QvfD5v4QFuUaZeo)
 
 [We formed our team as I described in my weekly writing on Networking & Teams!](/writing/networking) Due to plans in the making since I've entered King Abdulaziz University, I had a large amount of people who I was interested in working with. 

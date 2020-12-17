@@ -3,12 +3,9 @@ import Markdown from './../components/Markdown';
 import data from '../data.json';
 import GaugeChart from '../components/GaugeChart';
 import { Helmet } from 'react-helmet';
+import Title from './../components/Title';
 
 const markdown = `
-
-
-<center><h1>Proposal Grading Rubric</h1></center>
-
 There are some points which nearly all the groups failed to implement, and hopefully the next batch of students would see these charts, and know to what they need to focus on!
 
 Ideally, this visualization would ideally help the professors tailor their teaching, and emphasize more on the areas which a significant amount of students have missed.
@@ -30,6 +27,7 @@ const RubricCards = ({ cardWidth = "" }) => (
 			<title>CPIT221 - Proposal Rubric</title>
 			<meta name="description" content="Rubric of the Proposal." />
 		</Helmet>
+		<Title>Proposal Grading Rubric</Title>
 		<Markdown width={cardWidth} md={markdown} />
 		<div style={{ display: "flex", flexDirection: "row", flexFlow: "wrap", justifyContent: "center", alignContent: "flex-start" }}>
 			{Object.entries(data["Bar Plot"]).map(([category, catData]) => (

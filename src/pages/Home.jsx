@@ -1,4 +1,6 @@
 import { useState } from 'react';
+
+import Title from './../components/Title';
 import blogWordCloud from './../wordCloud.png';
 import { TwitterTweetEmbed } from 'react-twitter-embed';
 import MarkdownFile from '../components/MarkdownFile';
@@ -30,7 +32,7 @@ const Home = ({ width }) => {
 			</Helmet>
 			<center className="my-5">
 				<h5>From Zero To Hero...</h5>
-				<h1>My Experience with CPIT221</h1>
+				<Title>My Experience with CPIT221</Title>
 				<h5>Ryan Samman</h5>
 				<br />
 				<img alt="BlogWordCloud" src={blogWordCloud} width={width} />

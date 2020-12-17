@@ -10,7 +10,7 @@ const Video = ({ width, id, name, description }) => {
 	return (
 		<Card.Body>
 			<center>
-				<Card.Title>{name}</Card.Title>
+				<h2>{name}</h2>
 				<p>	{description}</p>
 			</center>
 			<div className="video mt-1 mb-3" >

@@ -1,10 +1,4 @@
 
-<center>
-<h1>
-Make Me Buy
-</h1>
-</center>
-
 In my view, the Make me Buy task is one of the more critical tasks of CPIT221. I have learnt a lot about creating videos from this one task, including lighting, audio, cameras, editing videos, and much more!
 
 ## Advice to the next batch of students
