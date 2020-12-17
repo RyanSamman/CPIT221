@@ -3,24 +3,25 @@ import { useEffect, useState } from 'react';
 import { Route, Switch } from 'react-router';
 
 // Components
+import { Helmet } from 'react-helmet';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import MarkdownFile from './components/MarkdownFile';
-import { Helmet } from 'react-helmet';
 
 // Pages
-import Home from './pages/Home';
-import ChosenCourse from './pages/ChosenCourse';
-import ProposalGrades from './pages/ProposalGrades';
-import Rubric from './pages/Rubric';
-import Writing from './writing/Writing';
-import Values from './pages/Values';
 import Buy from './pages/Buy';
+import Home from './pages/Home';
+import Values from './pages/Values';
+import Rubric from './pages/Rubric';
 import Page404 from './pages/Page404';
-import TextToSpeech from './pages/TextToSpeech';
+import Writing from './writing/Writing';
 import OurProposal from './pages/OurProposal';
+import TextToSpeech from './pages/TextToSpeech';
+import ChosenCourse from './pages/ChosenCourse';
 import WeeklyWriting from './pages/WeeklyWriting';
+import ProposalGrades from './pages/ProposalGrades';
 
+// Markdown
 import Secret from './markdown/Secret.md';
 
 function App() {
