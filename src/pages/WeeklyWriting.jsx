@@ -19,7 +19,7 @@ const WritingPost = ({ name, url, date, description }) => (
 
 const markdown = `
 My goal for the weekly writing was to **develop my writing skills to be good enough to start a personal blog**. 
-Therefore, I decided to dedicate a good amount of time to preparing and writing each week! 
+Therefore, I decided to dedicate a good amount of time to writing each week! 
 
 Below are all the weekly writings I've written for the CPIT221 course, covering topics such as **Networking, Teamwork, Visual Design, and more**!
 `

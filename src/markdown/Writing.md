@@ -5,7 +5,9 @@
 I like visualizing data, 
 such as [the Word Cloud I created earlier this term](https://github.com/RyanSamman/BlogWordCloud). 
 
-After one of the tasks, the students were asked to write about their experience in working with strangers in a Group Task. [Personally, I took this opportunity to reflect on my own teamwork skills, instead of blaming my teammates.](/writing/online-conversation) Therefore, I thought it would be the perfect opportunity to test out my programming skills, scrape data off Blackboard, and figure out the most common words mentioned in the writing.
+After one of the tasks, the students were asked to write about their experience in working with strangers in a Group Conversation. [Personally, I took this opportunity to reflect on my own teamwork skills, instead of blaming my teammates.](/writing/online-conversation) 
+
+Afterwards, I wondered if there was a way for me to somehow visualize the weekly writings, and see if there was anything interesting. Therefore, I learnt Jupyter Notebooks, and combined it with my previous knowledge [to scrape blackboard and make the image you see below](https://github.com/RyanSamman/BlogWordCloud).
 
 <center>
 <img alt="Word Cloud" style="max-width: 100%;" src="https://pbs.twimg.com/media/Ejbu267WAAAv3kc?format=png&name=small">
@@ -223,6 +225,8 @@ However, there are serious drawbacks with what I have mentioned. In an ideal wor
 
 ![Part 3](https://i.imgur.com/VTWU2Vv.jpg)
 
+
+<div id="secret"></div>
 
 ### ⚠ Confidential ⚠
 
