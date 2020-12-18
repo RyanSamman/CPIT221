@@ -28,13 +28,10 @@ But wait, us 6? Aren't we supposed to be 5 people? Right after we began, I met [
 
 My other teammates were responsible for researching more about the professors and the Dean, refining our ideas, and finding a template for our presentation. [We even found the Dean's Youtube Channel](https://www.youtube.com/user/iakyp2/videos), where he has posted several interesting and informative videos. This video in particular resonated with me, and he talks about many important topics related to increasing your chances of getting hired. 
 
-<center>
-
 <div style="position:relative;padding-bottom:56.25%;">
 <iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/qeKPhtjsnLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-</center>
 
 A major problem I see with many students is that they go through university or a course, but they aren't able to effectively use the things they have learnt afterwards! Personally, I always apply the the knowledge have learnt in a project, or ensure I have a deep understanding of what I have learnt, such as:
 
@@ -60,13 +57,10 @@ Therefore, I chose to let my teammates focus on their report, while me and Ahmed
 For our presentation, we decided that we did not want it to sound like we are just lazily reading from a script. Therefore we attempted at a more conversational style, where everyone just said what they had in mind. However, this was quite hard to pull off, and we needed to rehearse it several times. This was the final result!
 
 
-<center>
-
 <div style="position:relative;padding-bottom:56.25%;">
 <iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/1lalKs9CZtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-</center>
 
 However, time was running out, and on the day the proposal was supposed to be due, I realized that I hadn't finished my weekly writing! While I initially planned on quickly finishing the weekly writing, [just as I did the previous week](/writing/robot), my ideas happened to line up perfectly together, and I ended up spending the entire day writing it. Thinking about Dr. Buhari's story reminded me of my story, so I decided to go off topic, and [write about my own story](/writing/story)! I hoped that Dr. Rayed would be distracted from my writing, and forget that the deadline for the proposal was on the same day.
 
