@@ -24,6 +24,7 @@ const Home = ({ width }) => {
 
 	return (
 		<div>
+			<Youtube id="zigvhb_FRtU" />
 			<Helmet>
 				<title>CPIT221 - Home</title>
 				<meta name="description" content="A Website Visualizing CPIT221 and describing my Experience with the course." />
