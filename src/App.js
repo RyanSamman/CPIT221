@@ -1,5 +1,5 @@
 // React & React Router
-import { useEffect, useState } from 'react';
+import { useEffect, useState, Suspense, lazy } from 'react';
 import { Route, Switch } from 'react-router';
 
 // Components
@@ -7,22 +7,24 @@ import { Helmet } from 'react-helmet';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import MarkdownFile from './components/MarkdownFile';
-
-// Pages
-import Buy from './pages/Buy';
-import Home from './pages/Home';
-import Values from './pages/Values';
-import Rubric from './pages/Rubric';
-import Page404 from './pages/Page404';
-import Writing from './writing/Writing';
-import OurProposal from './pages/OurProposal';
-import TextToSpeech from './pages/TextToSpeech';
-import ChosenCourse from './pages/ChosenCourse';
-import WeeklyWriting from './pages/WeeklyWriting';
-import ProposalGrades from './pages/ProposalGrades';
+import Skeleton from 'react-loading-skeleton';
+import ErrorBoundry from './components/ErrorBoundry';
 
 // Markdown
 import Secret from './markdown/Secret.md';
+
+// Pages
+const Buy = lazy(() => import('./pages/Buy'));
+const Home = lazy(() => import('./pages/Home'));
+const Values = lazy(() => import('./pages/Values'));
+const Rubric = lazy(() => import('./pages/Rubric'));
+const Page404 = lazy(() => import('./pages/Page404'));
+const Writing = lazy(() => import('./writing/Writing'));
+const OurProposal = lazy(() => import('./pages/OurProposal'));
+const TextToSpeech = lazy(() => import('./pages/TextToSpeech'));
+const ChosenCourse = lazy(() => import('./pages/ChosenCourse'));
+const WeeklyWriting = lazy(() => import('./pages/WeeklyWriting'));
+const ProposalGrades = lazy(() => import('./pages/ProposalGrades'));
 
 function App() {
   const [width, setWidth] = useState(window.innerWidth);
@@ -40,67 +42,75 @@ function App() {
   return (
     <>
       <Navbar />
+        {/* // Error Boundries - https://reactjs.org/docs/error-boundaries.html */}
+        <ErrorBoundry>
+          {/* Code Splitting - https://reactjs.org/docs/code-splitting.html */}
+          
+            <div style={{ paddingLeft: padding, paddingRight: padding }}>
+            <Suspense fallback={<p style={{ minHeight: "83vh"}}></p>}>
+              <Switch>
+                <Route exact path="/">
+                  <Home width={cardWidth} />
+                </Route>
 
-      <div style={{ paddingLeft: padding, paddingRight: padding }}>
-        <Switch>
-          <Route exact path="/">
-            <Home width={cardWidth} />
-          </Route>
+                <Route path="/secret">
+                  <Helmet>
+                    <title>Secret Page...</title>
+                    <meta name="description" content="A Secret Page." />
+                  </Helmet>
+                  <MarkdownFile width={cardWidth} url={Secret}/>
+                </Route>
 
-          <Route path="/secret">
-            <Helmet>
-              <title>Secret Page...</title>
-              <meta name="description" content="A Secret Page." />
-            </Helmet>
-            <MarkdownFile width={cardWidth} url={Secret}/>
-          </Route>
+                <Route path="/proposal/ours">
+                  <OurProposal width={cardWidth} />
+                </Route>
 
-          <Route path="/proposal/ours">
-            <OurProposal width={cardWidth} />
-          </Route>
+                <Route path="/proposal/chosen">
+                  <ChosenCourse cardWidth={cardWidth} />
+                </Route>
 
-          <Route path="/proposal/chosen">
-            <ChosenCourse cardWidth={cardWidth} />
-          </Route>
+                <Route path="/proposal/grades">
+                  <ProposalGrades cardWidth={cardWidth} />
+                </Route>
 
-          <Route path="/proposal/grades">
-            <ProposalGrades cardWidth={cardWidth} />
-          </Route>
+                <Route path="/proposal/rubric">
+                  <Rubric cardWidth={cardWidth} />
+                </Route>
 
-          <Route path="/proposal/rubric">
-            <Rubric cardWidth={cardWidth} />
-          </Route>
+                <Route path="/values">
+                  <Values width={cardWidth} />
+                </Route>
 
-          <Route path="/values">
-            <Values width={cardWidth} />
-          </Route>
+                <Route path="/buy">
+                  <Buy width={cardWidth} />
+                </Route>
 
-          <Route path="/buy">
-            <Buy width={cardWidth} />
-          </Route>
+                <Route
+                  exact
+                  path="/writing/:id"
+                  render={props => <Writing width={cardWidth} id={props.match.params.id} />}>
+                </Route>
 
-          <Route
-            exact
-            path="/writing/:id"
-            render={props => <Writing width={cardWidth} id={props.match.params.id} />}>
-          </Route>
+                <Route path="/writing">
+                  <WeeklyWriting width={cardWidth} />
+                </Route>
 
-          <Route path="/writing">
-            <WeeklyWriting width={cardWidth} />
-          </Route>
+                <Route path="/tts">
+                  <TextToSpeech width={cardWidth} />
+                </Route>
 
-          <Route path="/tts">
-            <TextToSpeech width={cardWidth} />
-          </Route>
+                <Route>
+                  <Page404 />
+                </Route>
 
-          <Route>
-            <Page404 />
-          </Route>
-
-        </Switch>
-      </div>
+              </Switch>
+              
+          </Suspense>
+            </div>
+              
+        </ErrorBoundry>
       <Footer />
-    </>
+      </>
   );
 }
 
