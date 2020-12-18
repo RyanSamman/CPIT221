@@ -30,7 +30,9 @@ My other teammates were responsible for researching more about the professors an
 
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qeKPhtjsnLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;padding-bottom:56.25%;">
+<iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/qeKPhtjsnLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </center>
 
@@ -57,9 +59,12 @@ Therefore, I chose to let my teammates focus on their report, while me and Ahmed
 
 For our presentation, we decided that we did not want it to sound like we are just lazily reading from a script. Therefore we attempted at a more conversational style, where everyone just said what they had in mind. However, this was quite hard to pull off, and we needed to rehearse it several times. This was the final result!
 
+
 <center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1lalKs9CZtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative;padding-bottom:56.25%;">
+<iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/1lalKs9CZtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 </center>
 

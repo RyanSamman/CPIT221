@@ -37,11 +37,10 @@ IT221 course, I have advanced my communication skills greatly across several fro
 
 As you can see from my first video, it wasn't that great. In fact, I even made the video private afterwards, out of embarrassment. 
 
-<center>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uor4oVz-WJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
+<div style="position:relative;padding-bottom:56.25%;">
+<iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/uor4oVz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 After that first video, I spent possibly hundreds of hours making YouTube videos on the subjects I've taken in FCIT to develop my oral communication, as I was more used to explaining with text from my group in High School. While the video and sound quality itself was horrible, the goal was mainly to practice speaking, without stuttering.
 
@@ -53,11 +52,9 @@ After that first video, I spent possibly hundreds of hours making YouTube videos
 
 Then, I was introduced to the Make Me Buy task, where I learned how to use a camera and edit videos.
 
-<center>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zigvhb_FRtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</center>
+<div style="position:relative;padding-bottom:56.25%;">
+<iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/zigvhb_FRtU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 While the videos still aren't great, I have identified exactly where the videos fall short, and I will take account of them the next time I record a video. I nearly finished several scripts for videos on skills programmers need before even starting programming, such as Git & GitHub, IDEs, and all I have left to do is record it! 
 

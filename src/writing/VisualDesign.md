@@ -7,9 +7,11 @@ While technical skills and knowledge are important, humans are inherently visual
 ## EVALUATION OF THE SLIDES
 
 While I was thinking about the design of the course's slides, I remembered this talk from MIT on Public Speaking:
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Unzc731iCUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+
+<div style="position:relative;padding-bottom:56.25%;">
+<iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/Unzc731iCUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 In the talk, the presenter briefly spoke about the use of slides, and how slides should be structured to grasp the attention of the audience. Or rather yet, **for slides to NOT grasp the attention of the audience.** To clarify my point, I did a case study of an extremely successful Computer Science course, [Harvard's CS50x](https://www.edx.org/course/cs50s-introduction-to-computer-science) [[alt](https://cs50.harvard.edu/x/2020/)].
 
