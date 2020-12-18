@@ -13,18 +13,31 @@ import ProposalMarkdown from './../markdown/Proposal.md';
 import LaTeXMarkdown from './../markdown/LaTeX.md';
 import FinalReportMarkdown from './../markdown/FinalReport.md';
 import ConclusionMarkdown from './../markdown/Conclusion.md'
+import FadeIn from './../components/FadeIn';
 
 import { BlockMath } from 'react-katex';
 import { Helmet } from 'react-helmet';
 import Skeleton from 'react-loading-skeleton';
 
 
-const Home = ({ width }) => {
+const KaTeXDemo = () => {
 	const [katex, setKatex] = useState("\\int_0^\\infty x^2 dx");
 
 	return (
+		<div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly' }}>
+			<div className="my-auto">
+				<input value={katex} onChange={(e) => setKatex(e.target.value)} />
+			</div>
+			<BlockMath math={katex}></BlockMath>
+		</div>
+	)
+}
+
+const Home = ({ width }) => {
+
+
+	return (
 		<div>
-			<Youtube id="zigvhb_FRtU" />
 			<Helmet>
 				<title>CPIT221 - Home</title>
 				<meta name="description" content="A Website Visualizing CPIT221 and describing my Experience with the course." />
@@ -39,34 +52,53 @@ const Home = ({ width }) => {
 			</center>
 
 			<MarkdownFile width={width} url={homeMarkdown} />
-			<center>
-				<TwitterTweetEmbed tweetId={"1330247365886963712"} placeholder={<Skeleton height={500} />} />
-			</center>
 
-			<MarkdownFile width={width} url={TableOfContents} />
+			<FadeIn width={1000}>
+				<center>
+					<TwitterTweetEmbed tweetId={"1330247365886963712"} placeholder={<Skeleton height={500} />} />
+				</center>
 
-			<MarkdownFile width={width} url={tweetMarkdown} />
+				<MarkdownFile width={width} url={TableOfContents} />
+			</FadeIn>
 
-			<center>
-				<TwitterTweetEmbed tweetId={"1302887084252958721"} placeholder={<Skeleton height={500} />} />
-			</center>
-			<MarkdownFile width={width} url={IntroYoutubeMarkdown} />
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={tweetMarkdown} />
 
-			<center>
-				<YoutubeVideo width={width} id={"uor4oVz-WJc"} />
-			</center>
+				<center>
+					<TwitterTweetEmbed tweetId={"1302887084252958721"} placeholder={<Skeleton height={500} />} />
+				</center>
+			</FadeIn>
 
-			<MarkdownFile width={width} url={ReportMistakesMarkdown} />
-			<MarkdownFile width={width} url={ProposalMarkdown} />
-			<MarkdownFile width={width} url={LaTeXMarkdown} />
-			<div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly' }}>
-				<div className="my-auto">
-					<input value={katex} onChange={(e) => setKatex(e.target.value)} />
-				</div>
-				<BlockMath math={katex}></BlockMath>
-			</div>
-			<MarkdownFile width={width} url={FinalReportMarkdown} />
-			<MarkdownFile width={width} url={ConclusionMarkdown} />
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={IntroYoutubeMarkdown} />
+				<center>
+					<YoutubeVideo width={width} id={"uor4oVz-WJc"} />
+				</center>
+			</FadeIn>
+
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={ReportMistakesMarkdown} />
+			</FadeIn>
+
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={ProposalMarkdown} />
+			</FadeIn>
+
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={LaTeXMarkdown} />
+			</FadeIn>
+
+			<FadeIn width={500}>
+				<KaTeXDemo />
+			</FadeIn>
+
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={FinalReportMarkdown} />
+			</FadeIn>
+
+			<FadeIn width={500}>
+				<MarkdownFile width={width} url={ConclusionMarkdown} />
+			</FadeIn>
 		</div>
 	)
 }

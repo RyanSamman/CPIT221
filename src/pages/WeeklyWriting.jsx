@@ -4,6 +4,7 @@ import writingMarkdown from './../markdown/Writing.md'
 import writingData from './../writing/writings';
 import { Helmet } from 'react-helmet';
 import Title from './../components/Title';
+import FadeIn from './../components/FadeIn';
 
 const monthNames = [null, "January", "February", "March", "April", "May", "June",
 	"July", "August", "September", "October", "November", "December"
@@ -46,7 +47,9 @@ const WeeklyWriting = ({ width }) => {
 				<meta name="description" content="Describing my thinking behind the Weekly Writings I've done for the Course." />
 			</Helmet>
 			<OldWritings width={width} />
-			<MarkdownFile width={width} url={writingMarkdown} />
+			<FadeIn height={1000}>
+				<MarkdownFile width={width} url={writingMarkdown} />
+			</FadeIn>
 		</>
 	);
 };
