@@ -1,6 +1,7 @@
 import { Card } from 'react-bootstrap';
 import MarkdownFile from './../components/MarkdownFile';
 import buyMarkdown from './../markdown/Buy.md';
+import cs50Markdown from './../markdown/CS50.md';
 import videos from './../videos.json';
 import YoutubeVideo from './../components/YoutubeVideo';
 import { Helmet } from 'react-helmet';
@@ -33,6 +34,7 @@ const Buy = ({ width }) => (
 		<div className="mx-auto" style={{ width: width }} >
 			{videos.map((video, i) => <Video key={i} width={width} {...video} />)}
 		</div>
+		<MarkdownFile width={width} url={cs50Markdown} />
 	</>
 );
 

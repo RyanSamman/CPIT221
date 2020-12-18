@@ -1,6 +1,9 @@
+**The Make me Buy task is possibly one of the most important tasks of CPIT221.** Not only are you attempting to convince others to buy your product, but you are also showing off your own interests! I have found that the most convincing videos tend to be those from students who have a strong interest in what they are showing off, as they have already convinced themselves on the product at hand!
 
-In my view, the Make me Buy task is one of the more critical tasks of CPIT221. I have learnt a lot about creating videos from this one task, including lighting, audio, cameras, editing videos, and much more!
+From this one task, I have learnt a lot. While the [first task](/#first-task) pushed me to create YouTube videos, the *Make Me Buy* task is what made me think about the quality of my videos! The true beauty of this task is that **you learn most of the things yourself**! There is a lot of freedom to do as you like, and personally, the biggest limiter was the 5 minute maximum time! Not only does this task teach you how to market a product, but also **makes you think about the entire process for creating a video**, shooting, lighting, audio, editing, and much more!
 
-## Advice to the next batch of students
-If you are selling any physical product in the make me buy, try to create an affiliate link for it!
-Furthermore, make sure to close your AC before recording the video, to make sure the audio doesn't get ruined.
+I've seen many students selling actual products, such as headphones, keyboards, and more! **If you are selling any physical product, look into creating an affiliate link for it!** One of my friends convinced me to finally buy headphones, to fix some audio issues I've had all term. If he had created an affiliate link, he would have gotten a part of the revenue from my purchase!
+
+A problem I faced, but only realized all too late, was the audio. If I were to go back in time, I would make sure to avoid a noisy environment before recording the video, to make sure the audio would be of high quality.
+
+Below are some *Make Me Buy* videos which have amazed me, be it video editing, the way of presenting, or/and the topic itself. In the end, I present my [*Make Me Buy* video](#video), and have given it some context.
