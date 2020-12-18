@@ -65,7 +65,19 @@ const Values = ({ width }) => (
 			<GaugeChart name="Used Mobile to Post #CPIT221_Value" Y={20 + 57} N={147 - (20 + 57)} />
 		</Card>
 
-		<Markdown width={width} md={description2} />
+			<Markdown width={width} md={description2} />
+
+			<Markdown width={width} md={"<center><h1>Scraping #CPIT221_Value</h1></center>"} />
+			<ValueCloud viewBox="0 0 941 300" width={"100%"} />
+			<center><p style={{ fontSize: 10 }}>Word Cloud of <a href="https://twitter.com/hashtag/CPIT221_Value">#CPIT_Value</a></p></center>
+			<MarkdownFile width={width} url={GPT2Markdown1} />
+			<center>
+				<TwitterTweetEmbed tweetId="1330152458820128772" placeholder={<Skeleton height={500} />} />
+			</center>
+			<MarkdownFile width={width} url={GPT2Markdown2} />
+			<center>
+				<TwitterTweetEmbed tweetId="1331566216784318467" placeholder={<Skeleton height={500} />} />
+			</center>
 	</>
 );
 
