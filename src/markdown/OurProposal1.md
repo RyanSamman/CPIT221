@@ -6,7 +6,7 @@
 
 Before the task was announced, we were asked to make a weekly writing on how we would form a team.[As I had set out in my weekly writing](http://localhost:3000/writing/networking), I had formed a great team of promising individuals to aid me in the proposal.
 
-However, instead of working with people I had known since our foundation year, I decided to give the people I had recently met in FCIT a chance. Therefore, I chose [Khalid](https://twitter.com/KhaledMAlasmari), [Faisel](https://twitter.com/Eni2Mn8FlBFBzHf), Amin, and [Zeyad](https://twitter.com/CallMeZeyad) to be my teammates.
+However, instead of working with people I had known since our foundation year, I decided to give the people I had recently met in FCIT a chance. Therefore, I chose [Khalid](https://twitter.com/KhaledMAlasmari), [Faisel](https://twitter.com/Eni2Mn8FlBFBzHf), [Amin](https://twitter.com/_Amin_Ali_), and [Zeyad](https://twitter.com/CallMeZeyad) to be my teammates.
 
 We immediately started planning what we would be doing, as the task was announced. Our initial idea was to Integrate CPIT201 and CPCS202 together, teaching the theory of programming in CPIT201, and applying the concepts in CPCS202. However, we immediately realized that the plan would be too ambitious, as our biggest point was to teach students Assembly. Therefore, we scrapped most of the ideas.
 
@@ -45,7 +45,7 @@ A major problem I see with many students is that they go through university or a
 
 However, the majority of the courses from FCIT focus on memorization, rather than a strong understanding of the subject at hand. This may be a reason why employers are starting to realize the value of a degree has withered away, as it is now easier than ever to learn a skill on your own.
  
-The simplest course to shift away from **memorization** to **comprehension** would be the programming courses, and is why we have chosen CPCS202 for the proposal! I believe that the majority of courses can be similarly implemented, 
+The simplest course to shift away from **memorization** to **comprehension** would be the programming courses, and is why we have chosen CPCS202 for the proposal! Over the next few years, I will be applying this concept to nearly all the courses myself, ensuring I have a thorough understanding of what I learn.
 
 Back to the story, My teammates did their roles perfectly, and we even finished a basic prototype for the proposal a week before the deadline! However, things went downhill from there...
 
