@@ -25,13 +25,14 @@ const description2 = `
 <center><h1>Twitter Data</h1></center>
 
 
-[Retrieved by Khaled](https://twitter.com/KhaledMAlasmari), The figures indicate the following: 
+[Retrieved by Khaled](https://twitter.com/KhaledMAlasmari), The figures *may* indicate the following: 
 
 - A Majority of Students created a new twitter account for CPIT221.
 - A Majority of Students either did not continue using Twitter, or have a seperate account for the tasks.
 - More than half the students used smart phones to publish their tweets for CPIT221_Value.
 
-Overall, a good portion of the students seem to not be confident in using Twitter to market themselves.
+Overall, a good portion of the students are not convinced in using Twitter outside the course. 
+Showing incoming students the positive effects of using Twitter, through this website, or people who have benifitted from twitter may help convince them of the utility of social media!
 `
 
 const Values = ({ width }) => (
