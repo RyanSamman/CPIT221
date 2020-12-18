@@ -6,3 +6,15 @@ The website itself was created with React & Bootstrap. My goal for the website w
 
 My secondary goal was to experiment with creating a frontend without worrying about code structure, Design, or a backend. This allowed me to figure out what would be the best practices I should follow, which would have consumed a large amount of time on a normal project. Furthermore, I was able to research and experiment with several techniques to render Markdown. While this codebase is certainly not an example of good code structure & design, I have learnt a lot in the process of making this website, and I will be applying the lessons learnt in future projects. 
 
+What I've Learnt from this project:
+
+- Visualizing Data with Charts, on a website
+- React Router
+- React Bootstrap
+- Markdown with React
+- React Import System
+- Embedding Twitter/YouTube videos
+- Google Analytics
+- Manipulating Metadata with React Helmet
+- Embedding KaTeX into the Browser
+
