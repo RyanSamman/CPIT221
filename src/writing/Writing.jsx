@@ -36,7 +36,6 @@ const Writing = ({ width, id }) => {
 			<MarkdownFile width={width} url={writings[id].path} />
 			<br />
 			<DiscussionEmbed
-				className="mx-5"
 				shortname="CPIT221Visualization"
 				config={
 					{
