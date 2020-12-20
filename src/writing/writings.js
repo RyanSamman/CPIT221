@@ -9,6 +9,7 @@ import visualDesign from './VisualDesign.md';
 import onlineConversation from './OnlineConversation.md';
 import expressYourself2 from './ExpressYourself2.md';
 import expressYourself1 from './ExpressYourself1.md';
+import groupConversation from './GroupConversation.md';
 
 /*
 "requestPath": {
@@ -67,6 +68,12 @@ const writings = {
 		"path": onlineConversation,
 		"date": new Date(2020, 9, 28),
 		"description": "Reflecting on my role in a Conversation with Strangers."
+	},
+	"online-conversation-blog": {
+		"name": "👀 CPIT221 Group Conversation",
+		"path": groupConversation,
+		"date": new Date(2020, 9, 26),
+		"description": "Our Group Conversation's Blog"
 	},
 	"express-yourself2": {
 		"name": "💻 Express Yourself - Draft 2",
