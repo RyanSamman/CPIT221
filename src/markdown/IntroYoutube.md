@@ -1,5 +1,5 @@
 <center>
-<h1 id="first-task">Introductory Youtube Video</h1>
+<h1>Introductory YouTube Video</h1>
 </center>
 
 
@@ -27,6 +27,26 @@ On your own, it is hard to progress, and learn new things. Therefore, I want to 
 
 ### ❌ The Final Goal - Creating a Blog 
 
-In the beginning of the term, I felt like I wasn't skilled enough to create my own blog. However, using a website or template that hand-held the entire process isn't my style. I usually prefer creating things from scratch, rather than using libraries, which is why I prefer Computer Science. Therefore, I put it off for quite a while. 
+In the beginning of the term, I felt like I wasn't skilled enough to create my own blog. However, using a website or template that hand-held the entire process isn't my style. I usually prefer creating things from scratch, rather than using libraries, which is why I prefer Computer Science. Therefore, I put it off for quite a while, until now!
 
-**With this website, I originally just wanted to visualize the proposal grades.** A few hours in, I finally got used to the flow of React and Bootstrap, and I realized that this website could be much more than that! After a few days of work, I managed put together everything I needed for this website. Surpisingly, the majority of the codebase for this website can be translate directly into my blog, which I will start working on right as our exams finish!
+Due to this task, I started uploading YouTube videos explaining concepts in the courses of FCIT, and I have nearly 100 hours of videos recorded! 
+
+<center>
+
+![Videos](https://i.imgur.com/QsNhzXk.png)
+
+</center>
+
+The problem with the majority of the courses is that they do not go over why that concept was even created, and how to even use this knowledge! Therefore, I always go deeper into the why and how for nearly everything, and explain them to my friends to ensure I understood the concept at hand. 
+
+> <center>The ultimate test of your knowledge is your capacity to convey it to another. </center>
+
+<center>
+
+**~ Richard Feynman**
+
+</center>
+
+<br>
+
+However, the majority of the videos were very low quality, and had horrible audio. For that reason, I have unlisted the videos, but I plan on making higher quality videos explaining concepts in the coming terms of FCIT!

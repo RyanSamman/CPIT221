@@ -16,11 +16,11 @@ Afterwards, I wondered if there was a way for me to somehow visualize the weekly
 
 Afterwards, Dr Rayed and Dr Buhari were impressed at how I scraped the data off blackboard, and I believe they integrated a part of my code to create the automatic grader that we all know and love.
 
-While I aided in the existence of the auto grader, I believe the automatic grading of the weekly writings is a double edged sword, and brings along several drawbacks.
+While I aided in the existence of the auto grader, I believe the automatic grading of the weekly writings is a double-edged sword, and brings along several drawbacks.
 
--  **Students are not motivated to write more than what is neccessary**. This is due to the students wanting to avoid mistakes as much as possible, as more mistakes lead to lower grades. While many students attempted to write and do extra, their efforts were rewarded with heavy deductions in their grades! I'd suggest there to be some kind of scaling between the number of mistakes and the number of words written to avoid this problem in the future.
+-  **Students are not motivated to write more than what is necessary**. This is due to the students wanting to avoid mistakes as much as possible, as more mistakes lead to lower grades. While many students attempted to write and do extra, their efforts were rewarded with heavy deductions in their grades! I'd suggest there to be some kind of scaling between the number of mistakes and the number of words written to avoid this problem in the future.
 
-- **A rift was created between the professors and the students.** The students may have suggested useful feedback to the professors in the weekly writings, which may have been ignored. While I had tried experimenting with text summarization, nothing has been successful so far. While it's fun to experiement with AI, I don't believe there is much of an alternative to simply reading the writings manually!
+- **A rift was created between the professors and the students.** The students may have suggested useful feedback to the professors in the weekly writings, which may have been ignored. While I had tried experiment with text summarization, nothing has been successful so far. While it's fun to experiement with AI, I don't believe there is much of an alternative to simply reading the writings manually!
 
 - **A lot of the students blamed me whenever something went wrong.** While I would have loved to, I had no part in the creation of the automatic grader. As with everyone else, I was graded as normal, and one of my writings were even flagged as plagiarized! Many of the students have experienced the effects of testing a feature in production, from the bugs in the auto grader. I hope the students remember this experience, and do not make the same mistake of testing in production when they eventually write software, with higher stakes, in the future.
 

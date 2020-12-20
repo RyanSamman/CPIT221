@@ -3,11 +3,13 @@
 </center>
 
 - [Introduction](#top)
-- [Suprise on the First Day](#suprise)
-- [Introductory Youtube Video](#first-task)
+- [Surprise on the First Day](#suprise)
+- [Introductory YouTube Video](#first-task)
+- [Online Conversation](#online-conversation)
 - [Finding & Fixing Report Mistakes](#fix-report)
-- [Proposal](#proposal)
-- [LaTeX](#latex)
+- [Make Me Buy Video](#make-me-buy)
+- [Proposal](#proposal1)
+- [CV in LaTeX](#latex)
 - [Final Report](#final-report)
 - [Ending](#end)
 
@@ -15,7 +17,7 @@
 <h2>Other Pages</h2>
 </center>
 
-- [Weeky Writing](/writing)
+- [Weekly Writing](/writing)
 - [Make Me Buy](/buy)
 - [Value](/values)
 - [Our Proposal](/proposal/ours)

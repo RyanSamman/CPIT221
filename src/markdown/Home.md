@@ -1,4 +1,4 @@
-As Students in a **Technical Major**, a common misconception is that we would be spending all our time doing technical work. However, life is not that simple! To even get a job requires good Communication and Networking skills, and even afterwards, you will spend a significant amount of time simply communicating with others!
+As Students in a **Technical Major**, a common misconception is that we would be spending all our time doing technical work. However, life is not that simple! [To even get a job requires good Communication and Networking skills](/writing/express-yourself2), and even afterwards, you will spend a significant amount of time simply communicating with others!
 
 To bridge this gap and prepare students for the future, FCIT introduces to you, **CPIT221.**
 
@@ -7,7 +7,7 @@ Only a year ago, CPIT221 was just focusing on writing skills. However, since the
 | Task                               | Marks |
 | ---------------------------------- | ----- |
 | Weekly Writing                     | 20    |
-| Introductory Youtube Video         | 3     |
+| Introductory YouTube Video         | 3     |
 | Online Conversation with Strangers | 5     |
 | Correcting Report Mistakes         | 10    |
 | Make Me Buy Video                  | 10    |
@@ -17,7 +17,7 @@ Only a year ago, CPIT221 was just focusing on writing skills. However, since the
 | Writing a formal Report            | 20    |
 
 
-The tasks may seem daunting at first, and even I was nervous of the thought of doing those tasks! However, with time, we all got out of our comfort zone, and the majority of us were able to complete the tasks successfuly. In retrospect, each task covered important topics, and provided the students a strong foundation for developing professional skills well into the future. 
+The tasks may seem daunting at first, and even I was nervous of the thought of doing those tasks! However, with time, we all got out of our comfort zone, and the majority of us were able to complete the tasks successfully. In retrospect, each task covered important topics, and provided the students a strong foundation for developing professional skills well into the future. 
 
 <center>
 <img style="max-height:500px;" src="https://pbs.twimg.com/media/Elkyb1rXUAAK6z_?format=jpg&name=large" alt="Student Outcomes">
@@ -25,15 +25,19 @@ The tasks may seem daunting at first, and even I was nervous of the thought of d
 
 <br>
 
-**From day one, I started the course with the mindset of improving my skills, not just doing the tasks for the grades.** The course may be challenging at times, due to many of the tasks requiring you to go beyond what you have learnt in the lectures. However, I believe it creates the perfect environment for students to experiement with their ideas, and be able to hone their skills. Below are a bunch of skills and acomplishments I have done due to the course, which I will go into depth in the coming sections:
+<center>
 
-<br>
+**From day one, I did the course with the mindset of *improving my skills*, not grades.** 
 
-- I have become more confident and concise while communicating
-- [I have started a Professional Twitter account](https://twitter.com/Ryan_Samman_), which I post my programming projects in.
+</center>
+
+The course may be challenging at times, due to many of the tasks requiring you to go beyond what you have learned in the lectures. However, I believe it creates the perfect environment for students to experiment with their own ideas, and hone their skills. Below are a bunch of skills and accomplishments I have done due to the course, which I will go into depth in the coming sections:
+
+- [The course has directed our work into suggesting improvements to existing courses, in an organized and professional way.](/proposal/ours)
+- [I have started a Professional Twitter account](https://twitter.com/Ryan_Samman_), which I use to meet new people, and post my programming projects on.
 - [I started uploading videos to YouTube](https://www.youtube.com/channel/UCGifqU_TZEzeqE6eMTjcs8w/), not only related to the course, but also explaining concepts as I learn them from the other courses. I also have a couple video ideas planned for after the exams are finished!
-- I have developed my skills in working as a team, and [I have created a discord server to study and program in.](https://discord.gg/gVrBhRp47F) In fact, I created most of this website live on Discord!
-- And finally, [I am now in the process of creating a blog of my own](/), to document my programming journey so far, and the concepts I learn in the future!
-- [The course has directed our work into suggesting improvements to existing courses, in an organized and professional way.](https://twitter.com/rayed1420/status/1332299132254515201)
+- I have developed my skills in working as a team, and [I have created a discord server to study and program in.](https://discord.gg/gVrBhRp47F) In fact, I created most of this website live on Discord! Furthermore, due to this course, I have found my teammates which I will likely be doing the graduate project with, and we are planning on working on developing our skills together in the coming years.
+- [I am now in the process of creating a blog of my own](https://twitter.com/Ryan_Samman_/status/1335155439122718726), to document my programming journey so far, and the concepts I learn in the future!
 
-Furthermore, from the skills I have learnt through the course, I have met many interesting people which I am excited to be working with in the future!
+Furthermore, from the skills I have learned through the course, I have met many interesting people which I am excited to be working with in the future!
+

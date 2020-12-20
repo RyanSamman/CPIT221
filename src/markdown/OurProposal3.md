@@ -7,6 +7,6 @@ While I wasn't entirely happy with the final result of the presentation and prop
 
 - **References**. Overall, I feel like our references were not strong enough to back up the changes we have proposed. If I were in the Dean or Coordinator's place, I would be expecting thorough research into the pros and cons of each point before I would be comfortable implementing real changes.
 
-- **Audio Quality**. My audio quality wasn't great throughout the presentation, and I have been struggling with audio in my videos for a while. I recently bought a new , and will not be making this mistake in the future!
+- **Audio Quality**. My audio quality wasn't great throughout the presentation, and I have been struggling with audio in my videos for a while. I recently bought a new, and will not be making this mistake in the future!
 
 To this day, our discussion channels for the task remain on our discord. This is to serve as a reminder of our teamwork for this proposal, and a hallmark for our future teamwork together.

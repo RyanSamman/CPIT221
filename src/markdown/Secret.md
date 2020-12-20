@@ -24,21 +24,21 @@ If you have a background in business and technology, this is the major for you.
 
 # Issues
 
-Before going into the benifits, it is important to know the drawbacks and difficulties of each major.
+Before going into the benefits, it is important to know the drawbacks and difficulties of each major.
 
 ## Computer Science
-The main complaint I see is from MATH201. It is the price of entry for Computer Science, leaving students with a bad taste in only their first term. Furthermore, Computer Science depends heavily on logical thinking. While most of the concepts learnt are mainly theoretical, you tend to learn how to think in the process. Furthermore, you tend to learn the very basics of everything, and don't go into enough depth for mastery of any of the tracks.
+The main complaint I see is from MATH201. It is the price of entry for Computer Science, leaving students with a bad taste in only their first term. Furthermore, Computer Science depends heavily on logical thinking. While most of the concepts learned are mainly theoretical, you tend to learn how to think in the process. Furthermore, you tend to learn the very basics of everything, and don't go into enough depth for mastery of any of the tracks.
 
 ## IT
 t seems like there is more memorization than understanding, and the course contents seem to be quite outdated.
 
 ## IS
-Many people don't know much about this major, which I think is it's biggest drawback. A major issue with software development these days are the rift between the  Therefore, it is critical for there to be people who understand both the technical and business side of things. As a result, you tend to see IS majors assuming leadership positions and creating startups, as they are able to deal with both sides of the picture.
+Many people don't know much about this major, which I think is its biggest drawback. A major issue with software development these days are the rift between the  Therefore, it is critical for there to be people who understand both the technical and business side of things. As a result, you tend to see IS majors assuming leadership positions and creating startups, as they are able to deal with both sides of the picture.
 
-# Benifits
+# Benefits
 
 ## IS
-The graduates of IS tend to be far stronger in programming than the other majors. Combined with their business skills they have learnt along the way, this leaves IS graduates to be a powerful major.
+The graduates of IS tend to be far stronger in programming than the other majors. Combined with their business skills they have learned along the way, this leaves IS graduates to be a powerful major.
 
 ## IT
 IT is the lifeblood of most companies. They provide the infrastructure, security, and reliability to a project. Such as Tabaod, it's amazing to see such a simple idea applied in a complex situation. There are a lot of people in IT who have other interests as well, such as Web Dev, Game Development, Graphics, and more! IT is the most flexible major.
@@ -48,16 +48,16 @@ While the majority of the concepts are theoretical, these problems build your lo
 
 # My Opinion
 
-In my opinion, the major you choose does not matter much. No matter which one you choose, the most important thing is to work on your own skills. Go beyond the courses, and find ways to apply the concepts you have learnt. Personally, I believe that students who actively try applying the concepts they have learnt are far better off than those who study simply for the grades. Of course, applying the concepts in a practical manner indirectly boosts your grades, as you have not only known of the existence of a concept, but have applied it to a real world scenario!
+In my opinion, the major you choose does not matter much. No matter which one you choose, the most important thing is to work on your own skills. Go beyond the courses, and find ways to apply the concepts you have learned. Personally, I believe that students who actively try applying the concepts they have learned are far better off than those who study simply for the grades. Of course, applying the concepts practically indirectly boosts your grades, as you have not only known of the existence of a concept, but have applied it to a real world scenario!
 
 I know medicine students, who already have a lot on their plate, learning Computer Science and AI, entirely on their own. This shows that the major is not important, but your motivation and willingness to learn!
 
-Personally, I have chosen Computer Science. While I think all the majors are extremely important, I believe the concepts I will learn in Computer Science would be the most relevant to my goals. However, I will be learning IT skills on my own, but instead of the more traditional method, I will be cherry picking concepts that I am interested in, and plan on using into the future. 
+Personally, I have chosen Computer Science. While I think all the majors are extremely important, I believe the concepts I will learn in Computer Science would be the most relevant to my goals. However, I will be learning IT skills on my own, but instead of the more traditional method, I will be cherry-picking concepts that I am interested in, and plan on using into the future. 
 <center>
 <h1></h1>
 </center>
 
-Computer Science is largely theory - therefore, it needs to be supplemented with practical skills learnt on your own. This may seem like a major drawback. However, it allows me the freedom to learn the most up-to-date technologies, that I would actually use, at my own pace.
+Computer Science is largely theory - therefore, it needs to be supplemented with practical skills learned on your own. This may seem like a major drawback. However, it allows me the freedom to learn the most up-to-date technologies, that I would actually use, at my own pace.
 
 However, while I haven't chosen IT as a major, I still want to be pursuing some IT concepts. Furthermore, I see a lot of people on the opposite sides, defending their position. I believe every major has their perks, and I am looking forward to working with you all in the future!
 
@@ -72,11 +72,11 @@ Hopefully, by the time I graduate I will learn these 'IT related concepts':
 - [ ] Reverse Proxies
 - [ ] Caching w. Redis
 - [ ] Containerization w. Docker & Kubernetes
-- [ ] AWS Certified Cloud Practicioner Certification
+- [ ] AWS Certified Cloud Practitioner Certification
 
 # Conclusion
 
-It's hard to learn and stay motivated alone, you need to find others who can help you out! form a network, form a group of people who share your interestes, and grow together.
+It's hard to learn and stay motivated alone, you need to find others who can help you out! form a network, form a group of people who share your interests, and grow together.
 
 If you don't have any background in any of these subjects, try choosing one, and test out the waters!
 

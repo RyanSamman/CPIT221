@@ -1,10 +1,10 @@
 <center>
-<h1 id="suprise">Suprise on the First Day</h1>
+<h1>Surprise on the First Day</h1>
 </center>
 
-In the first task, the professor was just introducing us to the course, when suddenly, **we were asked to make a tweet on the spot!** Many of us did not even have a twitter account, and personally, I was very nervous to post a tweet with my face in it!
+In the first task, the professor was just introducing us to the course, when suddenly, **we were asked to make a tweet on the spot!** Many of us did not even have a Twitter account, and personally, I was very nervous to post a tweet with my face in it!
 
-For my first tweet, I decided the best way to stand out was to use a program that converted Text To Speech, instead of speaking myself. [Find out how to do that here, along with a JavaScript Version!](/tts)
+For my first tweet, I decided the best way to stand out was to write a program that converted Text To Speech, instead of speaking myself. [Find out how to do that here, along with a JavaScript Version!](/tts)
 
 After the task, I started posting more than just CPIT221 tasks on my twitter, and started posting some of my programming projects!
 
