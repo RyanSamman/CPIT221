@@ -73,7 +73,7 @@ const Values = ({ width }) => (
 				<GaugeChart name="Used Mobile to Post #CPIT221_Value" Y={20 + 57} N={147 - (20 + 57)} />
 			</Card>
 		</FadeIn>
-
+		<div id="data"></div>
 		<FadeIn height={500}>
 			<Markdown width={width} md={description2} />
 
