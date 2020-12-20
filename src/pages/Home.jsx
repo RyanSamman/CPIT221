@@ -3,17 +3,22 @@ import { useState } from 'react';
 import blogWordCloud from './../wordCloud.png';
 import { TwitterTweetEmbed } from 'react-twitter-embed';
 import MarkdownFile from '../components/MarkdownFile';
+import YoutubeVideo from './../components/YoutubeVideo';
+
+import FadeIn from './../components/FadeIn';
+
 import homeMarkdown from './../markdown/Home.md';
 import tweetMarkdown from './../markdown/Tweet.md';
 import TableOfContents from './../markdown/TableOfContents.md';
-import YoutubeVideo from './../components/YoutubeVideo';
 import IntroYoutubeMarkdown from './../markdown/IntroYoutube.md';
+import OnlineConversationMarkdown from './../markdown/OnlineConversation.md';
 import ReportMistakesMarkdown from './../markdown/FindFixReport.md';
+import MakeMeBuyMarkdown from './../markdown/Homebuy.md';
 import ProposalMarkdown from './../markdown/Proposal.md';
 import LaTeXMarkdown from './../markdown/LaTeX.md';
 import FinalReportMarkdown from './../markdown/FinalReport.md';
+import FinalReportMarkdown2 from './../markdown/FinalReport2.md';
 import ConclusionMarkdown from './../markdown/Conclusion.md'
-import FadeIn from './../components/FadeIn';
 
 import { BlockMath } from 'react-katex';
 import { Helmet } from 'react-helmet';
@@ -42,7 +47,6 @@ const Home = ({ width }) => {
 				<title>CPIT221 - Home</title>
 				<meta name="description" content="A Website Visualizing CPIT221 and describing my Experience with the course." />
 			</Helmet>
-
 			<center className="py-5">
 				<h5>From Zero To Hero...</h5>
 				<center><h1>My Experience with CPIT221</h1></center>
@@ -50,56 +54,93 @@ const Home = ({ width }) => {
 				<br />
 				<img alt="BlogWordCloud" src={blogWordCloud} width={width} />
 			</center>
+			<MarkdownFile url={homeMarkdown} />
 
-			<MarkdownFile width={width} url={homeMarkdown} />
-
-			<FadeIn width={1000}>
+			<FadeIn height={500}>
 				<center>
 					<TwitterTweetEmbed tweetId={"1330247365886963712"} placeholder={<Skeleton height={500} />} />
 				</center>
-
-				<MarkdownFile width={width} url={TableOfContents} />
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={tweetMarkdown} />
+			<FadeIn height={700}>
+				<MarkdownFile url={TableOfContents} />
+			</FadeIn>
 
+			<div id="suprise" />
+			<FadeIn height={300}>
+				<MarkdownFile url={tweetMarkdown} />
+			</FadeIn>
+			<FadeIn height={500}>
 				<center>
 					<TwitterTweetEmbed tweetId={"1302887084252958721"} placeholder={<Skeleton height={500} />} />
 				</center>
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={IntroYoutubeMarkdown} />
-				<center>
-					<YoutubeVideo width={width} id={"uor4oVz-WJc"} />
-				</center>
+			<div id="first-task" />
+			<FadeIn height={1000}>
+				<MarkdownFile url={IntroYoutubeMarkdown} />
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={ReportMistakesMarkdown} />
+			<div id="online-conversation" />
+			<FadeIn height={500}>
+				<MarkdownFile url={OnlineConversationMarkdown} />
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={ProposalMarkdown} />
+			<div id="fix-report" />
+			<FadeIn height={300}>
+				<MarkdownFile url={ReportMistakesMarkdown} />
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={LaTeXMarkdown} />
+			<div id="make-me-buy" />
+			<FadeIn height={300}>
+				<MarkdownFile url={MakeMeBuyMarkdown} />
 			</FadeIn>
 
-			<FadeIn width={500}>
+			<FadeIn height={500}>
+				<YoutubeVideo width={width} id={"zigvhb_FRtU"} />
+			</FadeIn>
+
+
+			<div id="proposal1" />
+			<FadeIn height={500}>
+				<MarkdownFile url={ProposalMarkdown} />
+			</FadeIn>
+
+			<div id="latex" />
+			<FadeIn height={500}>
+				<MarkdownFile url={LaTeXMarkdown} />
+			</FadeIn>
+
+			<FadeIn height={100}>
 				<KaTeXDemo />
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={FinalReportMarkdown} />
+			<FadeIn height={500}>
+				<center>
+					<TwitterTweetEmbed tweetId="1336080342067916800" placeholder={<Skeleton height={500} />} />
+				</center>
 			</FadeIn>
 
-			<FadeIn width={500}>
-				<MarkdownFile width={width} url={ConclusionMarkdown} />
+			<div id="final-report" />
+			<FadeIn height={500}>
+				<MarkdownFile url={FinalReportMarkdown} />
 			</FadeIn>
-		</div>
+
+			<FadeIn height={800}>
+				<center>
+					<TwitterTweetEmbed tweetId="1332317775356973057" placeholder={<Skeleton height={500} />} />
+				</center>
+			</FadeIn>
+
+			<FadeIn height={500}>
+				<MarkdownFile url={FinalReportMarkdown2} />
+			</FadeIn>
+
+			<div id="end" />
+			<FadeIn height={400}>
+				<MarkdownFile url={ConclusionMarkdown} />
+			</FadeIn>
+		</div >
 	)
 }
 
