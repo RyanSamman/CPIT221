@@ -1,15 +1,9 @@
-<center><h1 id="final-report">Final Report</h1></center>
+<center><h1>Final Report</h1></center>
 
-After finishing the reports for CPIT201, I was not in the mood to write a third!
+After finishing CPIT201's reports, **I was not in the mood to be writing another boring report!**
 
-While other students play games or watch videos to relax, I like programming. I started the habit when I first took CPIT110, and a year in, the progress I have made has really started to show!
+While other students play games or watch videos to relax, I program something interesting! When I first began CPIT110, I established this habit, and my efforts are now bearing fruit!
 
-In one of my programming sessions, Dr Rayed just uploaded the grades for the CPIT221 Proposal, and I decided to visualize that data! However, matplotlib started to become stale to me, and I decided to try out more interactive means of displaying data, on a website!
+I was thinking of something interesting to do, when Dr. Rayed had just happened to upload the Proposal grades! I immediately realized that I wanted to do something with the data. However, I was bored of Matplotlib, and **I wanted to try out other mediums for data visualization, such as on a website!**
 
-Using a website allowed me to use more graphics and embedding than otherwise, and allowed me to link multiple things together in an interactive way.
-
-However, a few days in, I realized I could go further than just displaying data, and work on both my frontend skills and my report!
-
-Through the component-based design of React, I was able to quickly put together this website, and show Dr Rayed. Thankfully, he was on the same page as me, and gave me the permission to work on this website instead. While creating this website, I realized I had everything I needed to create my own blog.
-
-I still consider myself to be more of a backend person than a frontend, however, I'm now confident I would be able to guide and work with people who are interested in frontend development.
+You can see the visualized data in the [Proposal tab](#top), and I go over the [Course Chosen](/proposal/chosen), [individual group grades](/proposal/grades), and a [high level overview of how groups performed against the rubric](/proposal/rubric).
