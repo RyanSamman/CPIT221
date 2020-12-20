@@ -10,7 +10,7 @@ import FadeIn from './../components/FadeIn';
 const Video = ({ width, id, name, description }) => {
 	width *= 0.95;
 	return (
-		<FadeIn height={400}>
+		<FadeIn height={575}>
 			<div style={{ padding: 20 }}>
 				<center>
 					<h2>{name}</h2>
@@ -36,6 +36,8 @@ const Buy = ({ width }) => (
 		<div className="mx-auto" style={{ width: width }} >
 			{videos.map((video, i) => <Video key={i} width={width} {...video} />)}
 		</div>
+
+		<div id="video" />
 		<FadeIn height={1000}>
 			<MarkdownFile width={width} url={cs50Markdown} />
 		</FadeIn>
