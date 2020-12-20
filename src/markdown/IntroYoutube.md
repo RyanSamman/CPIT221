@@ -3,7 +3,12 @@
 </center>
 
 
-Our First task was to create a youtube video talking about ourselves for approximately two minutes!
+Our First task was to **create a YouTube video talking about ourselves for approximately two minutes!**
+
+<div style="position:relative;padding-bottom:56.25%;">
+<iframe  style="width:100%;height:100%;position:absolute;left:0px;top:0px;" width="100%" height="100%" src="https://www.youtube.com/embed/uor4oVz-WJc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 I recorded my video exactly 127 times, and it took me nearly 4 hours to complete! From this task, I finally overcame my shyness, and became significantly better at speaking coherently. 
 
