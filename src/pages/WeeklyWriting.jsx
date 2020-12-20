@@ -47,6 +47,7 @@ const WeeklyWriting = ({ width }) => {
 				<meta name="description" content="Describing my thinking behind the Weekly Writings I've done for the Course." />
 			</Helmet>
 			<OldWritings width={width} />
+			<div id="word-cloud" />
 			<FadeIn height={1000}>
 				<MarkdownFile width={width} url={writingMarkdown} />
 			</FadeIn>
