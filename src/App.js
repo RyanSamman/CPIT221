@@ -12,6 +12,7 @@ import ErrorBoundry from './components/ErrorBoundry';
 
 // Markdown
 import Secret from './markdown/Secret.md';
+import IssuesMarkdown from './markdown/Issues.md';
 
 // Pages
 const Buy = lazy(() => import('./pages/Buy'));
@@ -59,6 +60,14 @@ function App() {
                     <meta name="description" content="A Secret Page." />
                   </Helmet>
                   <MarkdownFile width={cardWidth} url={Secret}/>
+                </Route>
+
+                <Route path="/issues">
+                  <Helmet>
+                    <title>Secret Page 2...</title>
+                    <meta name="description" content="A Secret Page." />
+                  </Helmet>
+                  <MarkdownFile width={cardWidth} url={IssuesMarkdown}/>
                 </Route>
 
                 <Route path="/proposal/ours">
