@@ -4,7 +4,7 @@ However, **every project I have done with React has failed miserably in the past
 
 A few days in, I figured that the website was good enough to show Dr. Rayed. Thankfully, he was on the same page as me, and gave me the permission to work on this website in place of my final report!
 
-Learning from the mistakes of my past mistakes, **I decided to not worry about the design of my code and website**, and finish something for once!
+Learning from the mistakes of my past mistakes, **I decided to not worry about the design of my code and website**, and let the technical debt pile up! A badly designed project is better than an unfinished one.
 
 After a few weeks of work, this is the finished product! While I initially thought I could kill two birds with one stone, and use the same codebase for my personal website and blog as well, [I decided against that for the reasons stated here.](https://github.com/RyanSamman/CPIT221)
 
