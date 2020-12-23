@@ -15,7 +15,7 @@ Therefore, I decided to put this idea away for a later date, but I may revisit i
 ### Aftermath
 
 
-Afterwards, we were requested to [write about our experience with the task in one of our weekly writings](http://localhost:3000/writing/networking). I had a lot to say about my teammates, but those factors are out of my control, **and the only thing I can hope to change is myself.**
+Afterwards, we were requested to [write about our experience with the task in one of our weekly writings](/writing/networking). I had a lot to say about my teammates, but those factors are out of my control, **and the only thing I can hope to change is myself.**
 
 After the task, [I decided to analyze people's opinions on the task](/writing), which is what prompted me to make the Word Cloud below!
 

@@ -6,7 +6,7 @@ However, with this task, **Dr Rayed and Dr Buhari gave us the opportunity to sug
 
 <center>
 
-### [I talk more about our proposal here.](http://localhost:3000/proposal/ours)
+### [I talk more about our proposal here.](/proposal/ours)
 
 </center>
 

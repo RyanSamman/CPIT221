@@ -4,7 +4,7 @@
 
 </center>
 
-Before the task was announced, we were asked to make a weekly writing on how we would form a team.[As I had set out in my weekly writing](http://localhost:3000/writing/networking), I had formed a great team of promising individuals to aid me in the proposal.
+Before the task was announced, we were asked to make a weekly writing on how we would form a team.[As I had set out in my weekly writing](/writing/networking), I had formed a great team of promising individuals to aid me in the proposal.
 
 However, instead of working with people I had known since our foundation year, I decided to give the people I had recently met in FCIT a chance. Therefore, I chose [Khalid](https://twitter.com/KhaledMAlasmari), [Faisel](https://twitter.com/Eni2Mn8FlBFBzHf), [Amin](https://twitter.com/_Amin_Ali_), and [Zeyad](https://twitter.com/CallMeZeyad) to be my teammates.
 
