@@ -40,4 +40,3 @@ The course may be challenging at times, due to many of the tasks requiring you t
 - [I am now in the process of creating a blog of my own](https://twitter.com/Ryan_Samman_/status/1335155439122718726), to document my programming journey so far, and the concepts I learn in the future!
 
 Furthermore, from the skills I have learned through the course, I have met many interesting people which I am excited to be working with in the future!
-
