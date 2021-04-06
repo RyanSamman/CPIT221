@@ -12,6 +12,7 @@ My secondary goal was to experiment with creating a frontend without worrying ab
 - Markdown with React
 - React Import System
 - Embedding Twitter/YouTube videos
+- Google Fonts
 - Google Analytics
 - Manipulating Metadata with React Helmet (But not before page loads ;/)
 - Embedding KaTeX into the Browser

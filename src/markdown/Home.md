@@ -37,6 +37,6 @@ The course may be challenging at times, due to many of the tasks requiring you t
 - [I have started a Professional Twitter account](https://twitter.com/Ryan_Samman_), which I use to meet new people, and post my programming projects on.
 - [I started uploading videos to YouTube](https://www.youtube.com/channel/UCGifqU_TZEzeqE6eMTjcs8w/), not only related to the course, but also explaining concepts as I learn them from the other courses. I also have a couple video ideas planned for after the exams are finished!
 - I have developed my skills in working as a team, and [I have created a discord server to study and program in.](https://discord.gg/gVrBhRp47F) In fact, I created most of this website live on Discord! Furthermore, due to this course, I have found my teammates which I will likely be doing the graduate project with, and we are planning on working on developing our skills together in the coming years.
-- [I am now in the process of creating a blog of my own](https://twitter.com/Ryan_Samman_/status/1335155439122718726), to document my programming journey so far, and the concepts I learn in the future!
+- [I am now in the process of creating a blog of my own](https://ryansamman.com/), to document my programming journey so far, and the concepts I learn in the future!
 
 Furthermore, from the skills I have learned through the course, I have met many interesting people which I am excited to be working with in the future!
