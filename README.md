@@ -10,7 +10,7 @@ My secondary goal was to experiment with creating a frontend without worrying ab
 - React Router
 - Bootstrap components for React
 - Markdown with React
-- React Import System
+- Webpack's Import System (Importing SVGs and Markdown)
 - Embedding Twitter/YouTube videos
 - Google Fonts
 - Google Analytics
